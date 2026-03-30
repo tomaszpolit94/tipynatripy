@@ -62,6 +62,7 @@ const plany = defineCollection({
     pubDate: z.coerce.date(),
     destination: z.string(),
     duration: z.string(),
+    budget: z.string().optional(),
     difficulty: z.enum(['łatwy', 'średni', 'wymagający']).default('łatwy'),
     heroImage: z.string().optional(),
     tags: z.array(z.string()).default([]),

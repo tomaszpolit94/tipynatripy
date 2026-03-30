@@ -1,0 +1,89 @@
+---
+// Animowany samolot na hero section — leci od lewej do prawej przy wejściu na stronę
+---
+
+<div class="plane-scene" aria-hidden="true">
+  <div class="contrail"></div>
+  <svg
+    class="plane-svg"
+    viewBox="0 0 200 80"
+    fill="white"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <!-- Kadłub -->
+    <path
+      d="M160,40 C175,40 185,37 183,33 L160,24 C130,12 90,28 60,32 L18,32 C8,32 6,36 6,40 C6,44 8,48 18,48 L60,48 C90,52 130,68 160,56 Z"
+    />
+    <!-- Szyby kokpitu -->
+    <path
+      d="M82,36 L148,36 Q154,36 154,40 Q154,44 148,44 L82,44 Q76,44 76,40 Q76,36 82,36 Z"
+      fill="rgba(135,205,255,0.45)"
+    />
+    <!-- Skrzydło główne -->
+    <path d="M95,40 L63,7 L53,10 L83,40 L53,70 L63,73 Z" opacity="0.92" />
+    <!-- Silnik pod skrzydłem -->
+    <ellipse cx="78" cy="50" rx="14" ry="5" opacity="0.75" />
+    <!-- Usterzenie poziome -->
+    <path d="M24,40 L10,27 L7,29 L22,40 L7,51 L10,53 Z" opacity="0.88" />
+    <!-- Statecznik pionowy -->
+    <path d="M22,40 L18,19 L24,19 L28,40 Z" opacity="0.88" />
+  </svg>
+</div>
+
+<style>
+  .plane-scene {
+    position: absolute;
+    top: 32%;
+    left: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    animation: fly-across 7s cubic-bezier(0.33, 0.1, 0.67, 0.9) forwards;
+    will-change: transform, opacity;
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  .plane-svg {
+    width: 88px;
+    height: auto;
+    animation: bob 2.2s ease-in-out infinite;
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.18));
+  }
+
+  .contrail {
+    height: 2px;
+    width: 200px;
+    background: linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.55) 100%);
+    margin-right: -1px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+
+  @keyframes fly-across {
+    0% {
+      transform: translateX(-300px);
+      opacity: 0;
+    }
+    6% {
+      opacity: 1;
+    }
+    88% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateX(calc(100vw + 300px));
+      opacity: 0;
+    }
+  }
+
+  @keyframes bob {
+    0%,
+    100% {
+      transform: translateY(0px) rotate(-1.5deg);
+    }
+    50% {
+      transform: translateY(-7px) rotate(1.5deg);
+    }
+  }
+</style>

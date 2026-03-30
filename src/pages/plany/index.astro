@@ -1,77 +1,52 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSenseSlot from '../../components/AdSenseSlot.astro';
+import TripCard from '../../components/TripCard.astro';
 import { getCollection } from 'astro:content';
 
 const plany = (await getCollection('plany', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
-
-const difficultyColors: Record<string, string> = {
-  łatwy: 'bg-green-50 text-green-700',
-  średni: 'bg-amber-50 text-amber-700',
-  wymagający: 'bg-red-50 text-red-700',
-};
 ---
 
 <BaseLayout
   title="Plany wycieczek — gotowe itineraria"
   description="Gotowe plany wycieczek na 3, 5 i 7 dni. Sprawdzone trasy, atrakcje i wskazówki dla polskich podróżników."
 >
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <nav class="text-sm text-gray-400 mb-8">
-      <a href="/" class="hover:text-sky-600">Strona główna</a>
-      <span class="mx-2">/</span>
-      <span class="text-gray-600">Plany</span>
-    </nav>
-
-    <div class="text-center mb-10">
-      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">
-        Plany wycieczek 🗺️
-      </h1>
-      <p class="text-gray-500 text-lg max-w-2xl mx-auto">
-        Gotowe itineraria na weekend lub dłuższy urlop. Skopiuj i jedź!
+  <div class="bg-gradient-to-r from-sky-600 to-sky-700 text-white py-14 px-4">
+    <div class="max-w-6xl mx-auto">
+      <nav class="text-sm text-sky-200 mb-4">
+        <a href="/" class="hover:text-white transition-colors">Strona główna</a>
+        <span class="mx-2">/</span>
+        <span class="text-white">Plany</span>
+      </nav>
+      <h1 class="text-3xl md:text-4xl font-extrabold mb-3">Plany wycieczek 🗺️</h1>
+      <p class="text-sky-100 text-lg max-w-2xl">
+        Gotowe itineraria z szacunkowym budżetem. Skopiuj, spakuj walizkę i jedź!
       </p>
     </div>
+  </div>
 
-    <AdSenseSlot slotId="5234567890" />
-
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     {
       plany.length === 0 ? (
-        <p class="text-center text-gray-400 py-16 text-lg">Plany wkrótce!</p>
+        <div class="text-center py-24">
+          <div class="text-6xl mb-4">🗺️</div>
+          <p class="text-gray-400 text-lg">Plany wycieczek wkrótce!</p>
+        </div>
       ) : (
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {plany.map((plan) => (
-            <a
-              href={`/plany/${plan.slug}/`}
-              class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow group"
-            >
-              {plan.data.heroImage && (
-                <img
-                  src={plan.data.heroImage}
-                  alt={plan.data.title}
-                  class="w-full h-48 object-cover"
-                  loading="lazy"
-                />
-              )}
-              <div class="p-5">
-                <div class="flex items-center gap-2 mb-3">
-                  <span class="text-xs font-medium bg-sky-50 text-sky-700 px-2 py-0.5 rounded-full">
-                    ⏱ {plan.data.duration}
-                  </span>
-                  <span
-                    class={`text-xs font-medium px-2 py-0.5 rounded-full ${difficultyColors[plan.data.difficulty]}`}
-                  >
-                    {plan.data.difficulty}
-                  </span>
-                </div>
-                <h2 class="text-lg font-bold text-gray-900 group-hover:text-sky-600 transition-colors leading-snug mb-2">
-                  {plan.data.title}
-                </h2>
-                <p class="text-sm text-gray-500 line-clamp-2 mb-3">{plan.data.description}</p>
-                <p class="text-xs text-gray-400">📍 {plan.data.destination}</p>
-              </div>
-            </a>
+            <TripCard
+              title={plan.data.title}
+              destination={plan.data.destination}
+              duration={plan.data.duration}
+              budget={plan.data.budget}
+              heroImage={plan.data.heroImage}
+              slug={plan.slug}
+              tags={plan.data.tags}
+              difficulty={plan.data.difficulty}
+              description={plan.data.description}
+            />
           ))}
         </div>
       )

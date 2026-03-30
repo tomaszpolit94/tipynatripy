@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSenseSlot from '../../components/AdSenseSlot.astro';
+import { getCollection } from 'astro:content';
+
+const okazje = (await getCollection('okazje', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout
+  title="Okazje lotnicze — promocje i tanie bilety"
+  description="Najnowsze okazje lotnicze, promocje linii lotniczych i tanie bilety w jednym miejscu. Nie przegap żadnej okazji!"
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">Okazje</span>
+    </nav>
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">
+        Okazje lotnicze 🏷️
+      </h1>
+      <p class="text-gray-500 text-lg max-w-2xl mx-auto">
+        Aktualne promocje linii lotniczych, błędne ceny i wyjątkowe oferty.
+      </p>
+    </div>
+
+    <AdSenseSlot slotId="3234567890" />
+
+    {
+      okazje.length === 0 ? (
+        <p class="text-center text-gray-400 py-16 text-lg">Okazje wkrótce!</p>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {okazje.map((item) => (
+            <a
+              href={`/okazje/${item.slug}/`}
+              class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow group"
+            >
+              <div class="p-5">
+                <div class="flex items-start justify-between gap-3 mb-3">
+                  <h2 class="text-lg font-bold text-gray-900 group-hover:text-sky-600 transition-colors leading-snug">
+                    {item.data.title}
+                  </h2>
+                  {item.data.price && (
+                    <span class="text-lg font-extrabold text-amber-500 whitespace-nowrap">
+                      {item.data.price}
+                    </span>
+                  )}
+                </div>
+                <p class="text-sm text-gray-500 mb-3 line-clamp-2">{item.data.description}</p>
+                <div class="flex flex-wrap gap-2 text-xs text-gray-400">
+                  <span>📍 {item.data.destination}</span>
+                  {item.data.airline && <span>· {item.data.airline}</span>}
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

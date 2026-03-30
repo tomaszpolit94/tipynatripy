@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import AdSenseSlot from '../../components/AdSenseSlot.astro';
+import { getCollection } from 'astro:content';
+
+const tipy = (await getCollection('tipy', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const categories = [
+  { slug: 'pakowanie', label: 'Pakowanie', icon: '🧳' },
+  { slug: 'ubezpieczenie', label: 'Ubezpieczenia', icon: '🛡️' },
+  { slug: 'wizy', label: 'Wizy', icon: '📋' },
+  { slug: 'transport', label: 'Transport', icon: '🚌' },
+  { slug: 'noclegi', label: 'Noclegi', icon: '🏨' },
+  { slug: 'finanse', label: 'Finanse', icon: '💳' },
+];
+---
+
+<BaseLayout
+  title="Tipy podróżne — praktyczne wskazówki"
+  description="Praktyczne porady podróżne — pakowanie, ubezpieczenia, wizy, transport i więcej. Wszystko co musisz wiedzieć przed wyjazdem."
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">Tipy</span>
+    </nav>
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">Tipy podróżne 💡</h1>
+      <p class="text-gray-500 text-lg max-w-2xl mx-auto">
+        Wszystko co musisz wiedzieć przed, w trakcie i po podróży.
+      </p>
+    </div>
+
+    <!-- Category pills -->
+    <div class="flex flex-wrap justify-center gap-3 mb-10">
+      {
+        categories.map(({ slug, label, icon }) => (
+          <span class="bg-white border border-gray-200 text-gray-600 px-4 py-2 rounded-full text-sm hover:border-sky-300 hover:text-sky-600 transition-colors cursor-default">
+            {icon} {label}
+          </span>
+        ))
+      }
+    </div>
+
+    <AdSenseSlot slotId="4234567890" />
+
+    {
+      tipy.length === 0 ? (
+        <p class="text-center text-gray-400 py-16 text-lg">Tipy wkrótce!</p>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {tipy.map((tip) => (
+            <PostCard
+              title={tip.data.title}
+              description={tip.data.description}
+              pubDate={tip.data.pubDate}
+              slug={tip.slug}
+              section="tipy"
+              tags={[tip.data.category, ...tip.data.tags]}
+              heroImage={tip.data.heroImage}
+            />
+          ))}
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

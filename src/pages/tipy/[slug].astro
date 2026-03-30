@@ -1,0 +1,93 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSenseSlot from '../../components/AdSenseSlot.astro';
+
+export async function getStaticPaths() {
+  const tipy = await getCollection('tipy', ({ data }) => !data.draft);
+  return tipy.map((tip) => ({
+    params: { slug: tip.slug },
+    props: { tip },
+  }));
+}
+
+const { tip } = Astro.props;
+const { Content } = await render(tip);
+
+const formattedDate = tip.data.pubDate.toLocaleDateString('pl-PL', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const categoryLabels: Record<string, string> = {
+  pakowanie: '🧳 Pakowanie',
+  ubezpieczenie: '🛡️ Ubezpieczenia',
+  wizy: '📋 Wizy',
+  transport: '🚌 Transport',
+  noclegi: '🏨 Noclegi',
+  finanse: '💳 Finanse',
+  inne: '💡 Inne',
+};
+---
+
+<BaseLayout
+  title={tip.data.title}
+  description={tip.data.description}
+  ogImage={tip.data.heroImage}
+  type="article"
+  pubDate={tip.data.pubDate}
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-6">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <a href="/tipy/" class="hover:text-sky-600">Tipy</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">{tip.data.title}</span>
+    </nav>
+
+    <header class="mb-8">
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span class="text-xs bg-sky-50 text-sky-600 px-3 py-1 rounded-full font-medium">
+          {categoryLabels[tip.data.category]}
+        </span>
+        {
+          tip.data.tags.map((tag) => (
+            <span class="text-xs bg-gray-100 text-gray-600 px-3 py-1 rounded-full">{tag}</span>
+          ))
+        }
+      </div>
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight mb-4">
+        {tip.data.title}
+      </h1>
+      <time datetime={tip.data.pubDate.toISOString()} class="text-sm text-gray-400">
+        {formattedDate}
+      </time>
+      {
+        tip.data.heroImage && (
+          <img
+            src={tip.data.heroImage}
+            alt={tip.data.title}
+            class="w-full rounded-xl mt-6 shadow-md"
+            loading="eager"
+          />
+        )
+      }
+    </header>
+
+    <AdSenseSlot slotId="4234567891" />
+
+    <div class="prose prose-lg prose-sky max-w-none">
+      <Content />
+    </div>
+
+    <AdSenseSlot slotId="4234567892" />
+
+    <div class="mt-10 pt-6 border-t border-gray-100">
+      <a href="/tipy/" class="text-sky-600 hover:text-sky-700 font-medium transition-colors">
+        ← Wszystkie tipy
+      </a>
+    </div>
+  </article>
+</BaseLayout>

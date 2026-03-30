@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import AdSenseSlot from '../../components/AdSenseSlot.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('loty', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout
+  title="Tanie loty — porady i triki"
+  description="Jak znaleźć najtańsze bilety lotnicze? Porady, triki i przewodniki po tanim lataniu dla polskich podróżników."
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">Loty</span>
+    </nav>
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">Tanie loty ✈️</h1>
+      <p class="text-gray-500 text-lg max-w-2xl mx-auto">
+        Praktyczne porady jak latać taniej — kiedy kupować, gdzie szukać i jak nie przepłacać.
+      </p>
+    </div>
+
+    <AdSenseSlot slotId="2234567890" />
+
+    {
+      articles.length === 0 ? (
+        <p class="text-center text-gray-400 py-16 text-lg">Artykuły wkrótce!</p>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {articles.map((article) => (
+            <PostCard
+              title={article.data.title}
+              description={article.data.description}
+              pubDate={article.data.pubDate}
+              slug={article.slug}
+              section="loty"
+              tags={article.data.tags}
+              heroImage={article.data.heroImage}
+            />
+          ))}
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

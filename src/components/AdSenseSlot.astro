@@ -1,0 +1,33 @@
+---
+interface Props {
+  slotId?: string;
+  format?: string;
+  class?: string;
+}
+
+const { slotId = 'XXXXXXXXXX', format = 'auto', class: className = '' } = Astro.props;
+---
+
+<!--
+  AdSense slot — odkomentuj poniższy blok po zatwierdzeniu konta Google AdSense
+  i zastąp ca-pub-XXXXXXXXXXXXXXXX swoim Publisher ID.
+
+  <div class={`adsense-wrapper my-6 ${className}`}>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+      data-ad-slot={slotId}
+      data-ad-format={format}
+      data-full-width-responsive="true"
+    ></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+-->
+
+<!-- Placeholder widoczny przed aktywacją AdSense -->
+<div
+  class={`bg-gray-100 border-2 border-dashed border-gray-300 rounded-lg p-4 my-6 text-center text-gray-400 text-sm ${className}`}
+>
+  📢 Reklama (slot: {slotId})
+</div>

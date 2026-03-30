@@ -1,0 +1,104 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSenseSlot from '../../components/AdSenseSlot.astro';
+
+export async function getStaticPaths() {
+  const plany = await getCollection('plany', ({ data }) => !data.draft);
+  return plany.map((plan) => ({
+    params: { slug: plan.slug },
+    props: { plan },
+  }));
+}
+
+const { plan } = Astro.props;
+const { Content } = await render(plan);
+
+const formattedDate = plan.data.pubDate.toLocaleDateString('pl-PL', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const difficultyColors: Record<string, string> = {
+  łatwy: 'bg-green-50 text-green-700 border-green-200',
+  średni: 'bg-amber-50 text-amber-700 border-amber-200',
+  wymagający: 'bg-red-50 text-red-700 border-red-200',
+};
+---
+
+<BaseLayout
+  title={plan.data.title}
+  description={plan.data.description}
+  ogImage={plan.data.heroImage}
+  type="article"
+  pubDate={plan.data.pubDate}
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-6">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <a href="/plany/" class="hover:text-sky-600">Plany</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">{plan.data.title}</span>
+    </nav>
+
+    <header class="mb-8">
+      {
+        plan.data.tags.length > 0 && (
+          <div class="flex flex-wrap gap-2 mb-4">
+            {plan.data.tags.map((tag) => (
+              <span class="text-xs bg-sky-50 text-sky-600 px-3 py-1 rounded-full">{tag}</span>
+            ))}
+          </div>
+        )
+      }
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight mb-4">
+        {plan.data.title}
+      </h1>
+
+      <!-- Plan summary -->
+      <div
+        class={`border rounded-xl p-4 mb-6 flex flex-wrap gap-4 ${difficultyColors[plan.data.difficulty]}`}
+      >
+        <div class="flex items-center gap-2">
+          <span class="text-sm font-medium">📍 {plan.data.destination}</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-sm font-medium">⏱ {plan.data.duration}</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-sm font-medium capitalize">Poziom: {plan.data.difficulty}</span>
+        </div>
+      </div>
+
+      <time datetime={plan.data.pubDate.toISOString()} class="text-sm text-gray-400">
+        Dodano: {formattedDate}
+      </time>
+      {
+        plan.data.heroImage && (
+          <img
+            src={plan.data.heroImage}
+            alt={plan.data.title}
+            class="w-full rounded-xl mt-6 shadow-md"
+            loading="eager"
+          />
+        )
+      }
+    </header>
+
+    <AdSenseSlot slotId="5234567891" />
+
+    <div class="prose prose-lg prose-sky max-w-none">
+      <Content />
+    </div>
+
+    <AdSenseSlot slotId="5234567892" />
+
+    <div class="mt-10 pt-6 border-t border-gray-100">
+      <a href="/plany/" class="text-sky-600 hover:text-sky-700 font-medium transition-colors">
+        ← Wszystkie plany wycieczek
+      </a>
+    </div>
+  </article>
+</BaseLayout>

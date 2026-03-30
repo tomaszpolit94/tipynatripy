@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import AdSenseSlot from '../components/AdSenseSlot.astro';
+import { getCollection } from 'astro:content';
+
+const latestPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 6);
+
+const sections = [
+  {
+    href: '/loty/',
+    title: 'Loty',
+    desc: 'Jak znaleźć najtańsze bilety lotnicze i kiedy kupować.',
+    icon: '✈️',
+  },
+  {
+    href: '/okazje/',
+    title: 'Okazje',
+    desc: 'Aktualne promocje lotnicze i wyjątkowe oferty.',
+    icon: '🏷️',
+  },
+  {
+    href: '/tipy/',
+    title: 'Tipy',
+    desc: 'Pakowanie, ubezpieczenia, wizy — wszystko co musisz wiedzieć.',
+    icon: '💡',
+  },
+  {
+    href: '/plany/',
+    title: 'Plany',
+    desc: 'Gotowe itineraria na 3, 5 lub 7 dni w dowolnym miejscu.',
+    icon: '🗺️',
+  },
+];
+---
+
+<BaseLayout
+  title="Strona główna"
+  description="Tipynatripy — tanie loty, praktyczne tipy podróżne i gotowe plany wycieczek dla polskich podróżników."
+>
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-sky-600 to-sky-800 text-white py-20 px-4">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-4xl md:text-5xl font-extrabold mb-4 leading-tight">
+        Podróżuj mądrzej,<br />wydawaj mniej
+      </h1>
+      <p class="text-xl text-sky-100 mb-8 max-w-2xl mx-auto">
+        Tanie loty, praktyczne tipy i gotowe plany wycieczek — wszystko po polsku.
+      </p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a
+          href="/loty/"
+          class="bg-white text-sky-700 font-bold px-6 py-3 rounded-full hover:bg-sky-50 transition-colors"
+        >
+          Jak latać tanio
+        </a>
+        <a
+          href="/plany/"
+          class="border-2 border-white text-white font-bold px-6 py-3 rounded-full hover:bg-sky-700 transition-colors"
+        >
+          Plany wycieczek
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sections grid -->
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+    <h2 class="text-2xl font-bold text-gray-900 mb-8 text-center">
+      Co znajdziesz na Tipynatripy?
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+      {
+        sections.map(({ href, title, desc, icon }) => (
+          <a
+            href={href}
+            class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:border-sky-200 transition-all group"
+          >
+            <div class="text-3xl mb-3">{icon}</div>
+            <h3 class="font-bold text-gray-900 group-hover:text-sky-600 transition-colors mb-2">
+              {title}
+            </h3>
+            <p class="text-sm text-gray-500">{desc}</p>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <AdSenseSlot slotId="1234567890" />
+  </div>
+
+  <!-- Latest posts -->
+  {
+    latestPosts.length > 0 && (
+      <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+        <div class="flex items-center justify-between mb-8">
+          <h2 class="text-2xl font-bold text-gray-900">Ostatnie artykuły</h2>
+          <a
+            href="/blog/"
+            class="text-sky-600 hover:text-sky-700 text-sm font-medium transition-colors"
+          >
+            Wszystkie artykuły →
+          </a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {latestPosts.map((post) => (
+            <PostCard
+              title={post.data.title}
+              description={post.data.description}
+              pubDate={post.data.pubDate}
+              slug={post.slug}
+              section="blog"
+              tags={post.data.tags}
+              heroImage={post.data.heroImage}
+            />
+          ))}
+        </div>
+      </section>
+    )
+  }
+</BaseLayout>

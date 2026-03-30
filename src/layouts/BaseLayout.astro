@@ -9,6 +9,9 @@ interface Props {
   canonical?: string;
   type?: 'website' | 'article';
   pubDate?: Date;
+  articleUpdatedDate?: Date;
+  keywords?: string[];
+  author?: string;
 }
 
 const {
@@ -18,6 +21,9 @@ const {
   canonical,
   type = 'website',
   pubDate,
+  articleUpdatedDate,
+  keywords = [],
+  author = 'Redakcja Tipynatripy',
 } = Astro.props;
 
 const siteUrl = 'https://tipynatripy.pl';
@@ -26,6 +32,54 @@ const fullTitle =
   title === 'Strona główna'
     ? 'Tipynatripy — Tanie loty, tipy podróżne i inspiracje'
     : `${title} | Tipynatripy`;
+
+// Fix OG image URL — external URLs used as-is, relative paths get siteUrl prepended
+const ogImageUrl = ogImage?.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+
+// JSON-LD schemas
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Tipynatripy',
+  url: siteUrl,
+  description: 'Tanie loty, praktyczne tipy podróżne i gotowe plany wycieczek dla polskich podróżników.',
+  inLanguage: 'pl-PL',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: { '@type': 'EntryPoint', urlTemplate: `${siteUrl}/blog/?q={search_term_string}` },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
+const articleSchema = type === 'article' && pubDate ? {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: description,
+  image: ogImageUrl,
+  datePublished: pubDate.toISOString(),
+  dateModified: (articleUpdatedDate ?? pubDate).toISOString(),
+  author: { '@type': 'Person', name: author },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Tipynatripy',
+    url: siteUrl,
+    logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+  },
+  inLanguage: 'pl-PL',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  ...(keywords.length > 0 && { keywords: keywords.join(', ') }),
+} : null;
+
+const breadcrumbSchema = type === 'article' ? {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Strona główna', item: siteUrl },
+    { '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteUrl}/blog/` },
+    { '@type': 'ListItem', position: 3, name: title, item: pageUrl },
+  ],
+} : null;
 ---
 
 <!DOCTYPE html>
@@ -39,29 +93,44 @@ const fullTitle =
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={pageUrl} />
+    {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
+    {type === 'article' && <meta name="author" content={author} />}
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
     <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:url" content={pageUrl} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={`${siteUrl}${ogImage}`} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="Tipynatripy" />
     <meta property="og:locale" content="pl_PL" />
     {type === 'article' && pubDate && (
       <meta property="article:published_time" content={pubDate.toISOString()} />
+    )}
+    {type === 'article' && articleUpdatedDate && (
+      <meta property="article:modified_time" content={articleUpdatedDate.toISOString()} />
     )}
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />
+    <meta name="twitter:image" content={ogImageUrl} />
 
-    <!-- Sitemap -->
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    {articleSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+    )}
+    {breadcrumbSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    )}
+
+    <!-- Sitemap & Favicon -->
     <link rel="sitemap" href="/sitemap-index.xml" />
-
-    <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
     <!--

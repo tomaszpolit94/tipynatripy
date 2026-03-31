@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
-import AdSenseSlot from '../../components/AdSenseSlot.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
@@ -28,7 +28,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
       </p>
     </div>
 
-    <AdSenseSlot slotId="1234567891" />
+    <AdSlot position="blog-list-top" />
 
     {
       posts.length === 0 ? (

@@ -1,0 +1,37 @@
+---
+/**
+ * AdSlot — centralny komponent reklamowy
+ *
+ * Użycie: <AdSlot position="article-top" />
+ *
+ * Konfiguracja: src/config/ads.ts
+ * Gdy ADS_ENABLED = false lub slot.enabled = false — komponent nie renderuje nic.
+ */
+import { adSlots, AD_PUBLISHER_ID, ADS_ENABLED } from '../config/ads';
+import type { AdSlotPosition } from '../config/ads';
+
+interface Props {
+  position: AdSlotPosition;
+  class?: string;
+}
+
+const { position, class: className = '' } = Astro.props;
+const slot = adSlots[position];
+const active = ADS_ENABLED && slot?.enabled;
+---
+
+{active && (
+  <div class={`ad-slot ad-slot--${position} my-6 text-center ${className}`}>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={AD_PUBLISHER_ID}
+      data-ad-slot={slot.slotId}
+      data-ad-format={slot.format}
+      data-full-width-responsive="true"
+    ></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+)}
+
+{/* Gdy nieaktywne — nie renderuje żadnego HTML. Zero śladów w DOM. */}

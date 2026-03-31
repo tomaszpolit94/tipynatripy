@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
-import AdSenseSlot from '../../components/AdSenseSlot.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 
 const tipy = (await getCollection('tipy', ({ data }) => !data.draft)).sort(
@@ -47,7 +47,7 @@ const categories = [
       }
     </div>
 
-    <AdSenseSlot slotId="4234567890" />
+    <AdSlot position="blog-list-top" />
 
     {
       tipy.length === 0 ? (

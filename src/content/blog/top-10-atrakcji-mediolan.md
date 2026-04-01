@@ -46,8 +46,8 @@ Wstęp do zamku (dziedziniec): bezpłatny. Muzea wewnętrzne: ok. 10 EUR. Za zam
 
 ## 5. Dzielnica Brera i Pinacoteca di Brera
 
-![Stylowa dzielnica Brera — serce artystycznego Mediolanu](https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800&q=80&auto=format&fit=crop&crop=bottom)
-*Mediolan — miasto sztuki poza tablicami reklamowymi mody*
+![Dzielnica Brera w Mediolanie — brukowane uliczki z galeriami sztuki, antykwariatami i kawiarniami](https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&q=80&auto=format&fit=crop&crop=top)
+*Brera — artystyczne serce Mediolanu. Brukowane uliczki, galerie i Pinacoteka z Raffaelem i Caravagiem. Najlepsza aperitivo w mieście po 18:00*
 
 Brera to artystyczna dzielnica Mediolanu — brukowane uliczki, galerie, antykwariaty i najlepsza aperitivo w mieście. Pinacoteca di Brera (ok. 15 EUR) to jeden z najwybitniejszych zbiorów malarstwa włoskiego — Rafael, Caravaggio, Mantegna.
 

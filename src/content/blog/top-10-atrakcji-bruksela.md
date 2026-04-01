@@ -28,8 +28,8 @@ Niedaleko: Jeanneke Pis (dziewczynka) i Zinneke Pis (pies) — brukselski trypty
 
 ## 3. Muzeum Magritte'a (Musée Magritte)
 
-![Place Royale i Muzea Królewskie w Brukseli](https://images.unsplash.com/photo-1559113202-eff3e0462a33?w=800&q=80&auto=format&fit=crop&crop=left)
-*Place Royale — kulturalne serce Brukseli*
+![Muzeum Magritte'a w Brukseli — surrealistyczne obrazy René Magritte'a w nowoczesnej galerii](https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&q=80&auto=format&fit=crop)
+*Musée Magritte — największa kolekcja prac surrealisty René Magritte'a na świecie. "Syn człowieczy", "To nie jest fajka", "Gwałt" — ikony XX-wiecznej sztuki*
 
 Rene Magritte, surrealistyczny artysta słynący z "The Son of Man" (mężczyzna z jabłkiem przed twarzą), urodził się w Belgii i mieszkał w Brukseli. Muzeum Magritte'a (ok. 15 EUR) to jedno z najważniejszych muzeów surrealizmu na świecie.
 
@@ -65,8 +65,8 @@ W weekendy: targ antyków i staroci na Grand Sablon (piątek–niedziela).
 
 ## 8. Muzeum Instrumentów Muzycznych (MIM)
 
-![Centrum Brukseli z Art Nouveau architekturą](https://images.unsplash.com/photo-1559113202-eff3e0462a33?w=800&q=80&auto=format&fit=crop&crop=right)
-*Art Nouveau — Bruksela to jedno z kolebek tego stylu architektonicznego*
+![Fasada secesyjna kamienicy w Brukseli — charakterystyczne ornamenty Art Nouveau z żelaza i kamienia](https://images.unsplash.com/photo-1502604370-e6bc3c5b6f5e?w=800&q=80&auto=format&fit=crop)
+*Art Nouveau w Brukseli — Victor Horta stworzył tu styl w 1893 roku. Domy Horty (UNESCO): giętkie linie, żelazne ornamenty, naturalne motywy. Bezpłatna mapa dostępna w biurze turystycznym*
 
 Jedno z najbardziej oryginalnych muzeów Europy — 7000 instrumentów muzycznych z całego świata. Sam budynek (Old England) to arcydzieło secesji (art nouveau). Wstęp ok. 13 EUR. Na dachu: kawiarnia z panoramą Brukseli.
 

@@ -61,9 +61,6 @@ const categoryLabels: Record<string, string> = {
       <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight mb-4">
         {tip.data.title}
       </h1>
-      <time datetime={tip.data.pubDate.toISOString()} class="text-sm text-gray-400">
-        {formattedDate}
-      </time>
       {
         tip.data.heroImage && (
           <img

@@ -75,17 +75,7 @@ const updatedDate = post.data.updatedDate?.toLocaleDateString('pl-PL', {
         {post.data.title}
       </h1>
       <div class="flex flex-wrap items-center gap-3 text-sm text-gray-400">
-        <time datetime={post.data.pubDate.toISOString()}>{formattedDate}</time>
-        <span aria-hidden="true">·</span>
         <span>{post.data.author}</span>
-        {
-          updatedDate && (
-            <>
-              <span aria-hidden="true">·</span>
-              <span>Aktualizacja: {updatedDate}</span>
-            </>
-          )
-        }
       </div>
       {
         post.data.heroImage && (

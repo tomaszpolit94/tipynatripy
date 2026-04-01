@@ -22,8 +22,8 @@ Bilet: ok. 35 EUR (droższy niż kiedyś, ale wart). Najlepiej wyjść rano (prz
 
 ## 2. Stradun (Placa) — główna ulica
 
-![Stradun — główna arteria Starego Miasta w Dubrowniku](https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&q=80&auto=format&fit=crop&crop=bottom)
-*Stradun wieczorami — serce życia towarzyskiego Dubrownika*
+![Stradun w Dubrowniku — marmurowa ulica główna w Starym Mieście wypełniona kawiarniami i spacerującymi ludźmi](https://images.unsplash.com/photo-1591181520189-abcb0735c65d?w=800&q=80&auto=format&fit=crop)
+*Stradun — 300-metrowa marmurowa arteria Starego Miasta. Wypolerowany do lustra przez wieki spacerujących kroków. Nocą odbija refleksy latarni jak lustro*
 
 Stradun to 300-metrowa marmurowa ulica biegnąca przez środek Starego Miasta. Wylewa się na nią całe życie towarzyskie — kawiarnie, sklepy z pamiątkami, fontanny. Nocą jest najpiękniejsza.
 
@@ -55,8 +55,8 @@ Fontanna Onofria na początku Stradunu (1438) — gdzie niegdyś mieścił się 
 
 ## 6. Punkt widokowy Srđ i kolejka linowa
 
-![Widok z kolejki linowej na Dubrownik i Adriatyk](https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&q=80&auto=format&fit=crop&crop=top)
-*Dubrownik z góry — jeden z najpiękniejszych widoków w Europie*
+![Panorama Dubrownika z góry Srđ — pomarańczowe dachy Starego Miasta i turkusowy Adriatyk widziane z kolejki linowej](https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&q=80&auto=format&fit=crop&sat=-20)
+*Widok ze wzgórza Srđ (405 m) — Stare Miasto jak na dłoni, Adriatyk i wyspy w oddali. Kolejka linowa: 4 minuty, 360° panorama*
 
 Wzgórze Srđ (405 m n.p.m.) nad miastem — kolejka linowa w górę (ok. 20 EUR w dwie strony) to 4 minuty i panorama Dubrownika, Adriatyku i okolicznych wysp. Jeden z najpiękniejszych widoków w Europie.
 

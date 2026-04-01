@@ -61,8 +61,8 @@ Wejście na wieżę: ok. 250 CZK — jeden z najlepszych widoków na Pragę.
 
 ## 7. Wyszehrad (Vyšehrad)
 
-![Wełtawa i Praga z perspektywy wyżyn](https://images.unsplash.com/photo-1541849546-216549ae216d?w=800&q=80&auto=format&fit=crop&crop=bottom)
-*Wełtawa płynąca przez serce Pragi*
+![Wyszehrad — starożytna twierdza na skale nad Wełtawą w Pradze z widokiem na miasto](https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80&auto=format&fit=crop&crop=top)
+*Wyszehrad — twierdza na skale nad Wełtawą. Spokojniejszy od Zamku Praskiego, z cmentarzem gdzie spoczywają Dvořák i Smetana. Piknik z widokiem na dolinę rzeki*
 
 Starożytna twierdza na skale nad Wełtawą — mniej znana niż Zamek Praski, ale o wiele spokojniejsza. Ogromny cmentarz narodowy z grobami Dvořáka i Smetany, romantyczne mury, katedra z X w. i panorama doliny Wełtawy.
 

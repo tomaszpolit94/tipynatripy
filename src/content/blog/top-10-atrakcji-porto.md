@@ -20,8 +20,8 @@ Wstęp: wolny. Najpiękniejsze wieczorami z oświetlonymi fasadami odbijającymi
 
 ## 2. Most Dom Luís I (Ponte Dom Luís I)
 
-![Most Dom Luís I w Porto nad rzeką Douro](https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80&auto=format&fit=crop&crop=top)
-*Most Dom Luís I — najpiękniejszy most Europy*
+![Most Dom Luís I w Porto — żelazny dwupoziomowy most z 1886 roku nad rzeką Douro z panoramą miasta](https://images.unsplash.com/photo-1548517638-c49da3c2b7de?w=800&q=80&auto=format&fit=crop)
+*Most Dom Luís I (1886) — dwa poziomy: dołem tramwaj i auta, górą piesi z najpiękniejszym widokiem na Ribeiral. Zaprojektowany przez ucznia Eiffla*
 
 Dwupoziomowy żelazny most z 1886 roku — jeden z najpiękniejszych w Europie. Górna platforma (piesza) oferuje jeden z najsłynniejszych widoków w Europie: panorama Ribeira i Villa Nova de Gaia po drugiej stronie.
 
@@ -44,8 +44,8 @@ Romańsko-gotycka katedra z XII w. wznosi się nad Ribeiral. Wstęp do środka o
 
 ## 5. Kościół Carmos i Carmelitas — ściana azulejos
 
-![Azulejos — tradycyjne niebieskie kafle zdobią Porto](https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80&auto=format&fit=crop&crop=entropy)
-*Piękne azulejos — błękitne kafle zdobią Porto jak żaden inny materiał*
+![Azulejos — tradycyjne niebieskie i białe kafle ceramiczne na fasadzie kościoła w Porto](https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80&auto=format&fit=crop)
+*Azulejos — ceramiczne kafle pokrywające fasady kościołów, dworców i domów. Kościół Carmos: 11 000 kafli przedstawiających historię zakonu karmelitów*
 
 Zewnętrzna ściana Kościoła Carmos pokryta 11 000 azulejos przedstawiającymi historię zakonu — jeden z największych panel azulejowych na świecie. Bezpłatny widok z ulicy.
 

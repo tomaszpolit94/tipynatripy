@@ -20,8 +20,8 @@ Wstęp wolny. Wjedź windą ze skały od strony Postiguet (ok. 3 EUR) lub idź p
 
 ## 2. Plaża Postiguet
 
-![Piękna plaża Costa Blanca w Alicante](https://images.unsplash.com/photo-1566408669374-6b3b3943f07a?w=800&q=80&auto=format&fit=crop&crop=bottom)
-*Postiguet — miejska plaża z widokiem na zamek*
+![Plaża Postiguet w Alicante — złoty piasek, lazurowe morze i zamek Świętej Barbary w tle](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80&auto=format&fit=crop)
+*Postiguet — miejska plaża z widokiem na zamek Świętej Barbary. Błękitna Flaga czystości, 2 minuty od centrum Alicante*
 
 Dosłownie miejska plaża — 2 minuty spaceru od centrum. Złoty piasek, Bandera Azul (błękita flaga czystości) i widok na Zamek Świętej Barbary. Latem tłoczna, wiosną i jesienią idealna.
 

@@ -44,8 +44,7 @@ const url = `/${section}/${slug}/`;
       <a href={url} class="hover:text-sky-600 transition-colors">{title}</a>
     </h2>
     <p class="text-gray-500 text-sm mb-4 line-clamp-3 flex-1">{description}</p>
-    <div class="flex items-center justify-between mt-auto pt-3 border-t border-gray-50">
-      <time datetime={pubDate.toISOString()} class="text-xs text-gray-400">{formattedDate}</time>
+    <div class="flex items-center justify-end mt-auto pt-3 border-t border-gray-50">
       <a href={url} class="text-sm font-medium text-sky-600 hover:text-sky-700 transition-colors">
         Czytaj więcej →
       </a>

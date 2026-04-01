@@ -39,9 +39,15 @@ Wejście na wieżę ratusza: ok. 250 CZK — widok na rynek z góry jest niesamo
 
 ## 4. Josefov — dawna dzielnica żydowska
 
+![Stary cmentarz żydowski w Josefov w Pradze — nagrobki z XVII-XVIII w. ułożone warstwami na małej działce](https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?w=800&q=80&auto=format&fit=crop)
+*Josefov — Stary Cmentarz Żydowski z XII–XVIII w. Nagrobki ułożone w warstwy (brakowało miejsca). Sześć synagog i muzeum Holocaustu. Jedno z najważniejszych miejsc pamięci w Europie*
+
 Najlepiej zachowane historyczne getto żydowskie w Europie. Sześć synagog i cmentarz żydowski z XII–XVIII w. Bilet łączony: ok. 500 CZK (ok. 90 zł). Muzeum żydowskie w Pradze to jedno z najważniejszych miejsc pamięci Holocaustu.
 
 ## 5. Mała Strana (Malá Strana)
+
+![Mała Strana w Pradze — barokowe kamienice, oranżeriowe ogrody i dzwonnica kościoła św. Mikołaja](https://images.unsplash.com/photo-1590928409553-75f81f5e36f7?w=800&q=80&auto=format&fit=crop)
+*Mała Strana — barokowa dzielnica u stóp zamku. Brukowane uliczki, café w barokowych pałacach i kościół Świętego Mikołaja z największą kopułą w Czechach*
 
 Barokowa dzielnica u stóp zamku — wąskie uliczki, ogródki pałacowe, kawiarnie przy fontannach. Kościół Świętego Mikołaja (wstęp ok. 100 CZK) z olbrzymią kopułą to jeden z arcydzieł czeskiego baroku.
 
@@ -67,6 +73,9 @@ Wstęp do terenu: bezpłatny. Idealne miejsce na piknik z widokiem.
 Plac Wacławski (Václavské náměstí) to centralna arteria Nowego Miasta — pełna sklepów, kawiarni i historii (tu ogłoszono niepodległość Czechosłowacji w 1918). Muzeum Narodowe na szczycie (ok. 200 CZK) z piękną neorenesansową fasadą.
 
 ## 9. Praga nocna — bary i piwowarstwo
+
+![Czeskie piwo beczkowe w praskiej pivnice — kufel Pilsner Urquell z pianą na drewnianym stole](https://images.unsplash.com/photo-1574096079513-d8259312b785?w=800&q=80&auto=format&fit=crop)
+*Praskie piwo — Pilsner Urquell, Kozel, Budvar beczkowy. Pivnice (piwiarnia) serwuje kufel za 35–50 CZK (6–9 zł). Praga to najtańsze dobre piwo w Europie Środkowej*
 
 Praga to stolica czeskiego piwa — Pilsner Urquell, Kozel, Bernard, Budvar. Lokalne pivnice (piwiarnie) oferują kufel za 30–50 CZK (ok. 5–9 zł). Stare Miasto nocą z oświetlonymi zabytkami to zupełnie inna Praga.
 

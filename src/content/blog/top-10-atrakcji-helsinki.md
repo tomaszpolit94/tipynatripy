@@ -20,6 +20,9 @@ Bilet ok. 3 EUR.
 
 ## 2. Katedra Senacka (Tuomiokirkko)
 
+![Katedra Tuomiokirkko na Placu Senackim w Helsinkach — biała neoklasyczna katedra z zieloną kopułą](https://images.unsplash.com/photo-1559308870-d5a1e3a63de0?w=800&q=80&auto=format&fit=crop)
+*Tuomiokirkko — luterańska katedra z 1852 r. na Placu Senackim. Symbol Helsinek, projektowana przez C.L. Engela. Szerokie schody zawsze pełne siedzących studentów*
+
 Biała neoklasyczna katedra dominująca nad Placem Senackim — symbol Helsinek. Projektowana przez Engela, zbudowana pod rosyjskim panowaniem. Krypta z historią religii luterańskiej Finlandii.
 
 Wstęp wolny.
@@ -38,6 +41,9 @@ Prom wliczony w bilet HSL (ok. 3 EUR).
 Kwadrat ulic z setkami sklepów z fińskim designem — Arabia, Iittala, Marimekko. Nie sklepy turystyczne — to tu Finowie kupują lokalne produkty. Galerie, kawiarnie, rzemieślnicy.
 
 ## 5. Rynek przy Porcie (Kauppatori)
+
+![Kauppatori — targ rybacki przy porcie w Helsinkach z łososiem, krabami i reniferem na straganach](https://images.unsplash.com/photo-1503764654157-72d979d9af2f?w=800&q=80&auto=format&fit=crop)
+*Kauppatori — targ przy Rynku Głównym, czynny od rana. Łosoś grillowany, muikku (małe smażone rybki), borówki i renifera na straganach. Śniadanie przy wodzie: ok. 10–12 EUR*
 
 Targ przy Rynku Głównym z łososiem, krabami, borówkami, reniferem i kahvibreads (bułeczki do kawy). Rano najświeższy. Latającą ryba (grillowany łosoś) — ok. 10–12 EUR, doskonały.
 
@@ -69,6 +75,9 @@ Nadmorski park z widokiem na archipelag. Latem kawiarnie i restauracje w plenerz
 Wstęp bezpłatny.
 
 ## 10. Archipelag Helsinek (Itäinen Suomenlahti)
+
+![Archipelag fiński — drewniane domki letniskowe na skalistych wyspach otoczonych Morzem Bałtyckim](https://images.unsplash.com/photo-1549996944-f98cf8792e2a?w=800&q=80&auto=format&fit=crop)
+*Archipelag Helsinek — kilkaset wysp dostępnych promem HSL (w cenie biletu!). Mökki (domek letni), grillowanie, pływanie, kajaki. Latem to prawdziwy raj o 20 minutach od centrum*
 
 Kilkaset wysp dostępnych promami HSL (w cenie biletu transportowego). Latem: grillowanie, pływanie, kajaki. Najpiękniejsze: Pihlajasaari (plaże), Vallisaari (otworzona dla turystów w 2016, strefa militarna, dzikie kwiaty).
 

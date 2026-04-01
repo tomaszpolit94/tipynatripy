@@ -29,6 +29,9 @@ Wstęp wolny (miasto). Pałac Królewski: ok. 180 SEK.
 
 ## 3. Skansen — Muzeum na Wolnym Powietrzu
 
+![Skansen w Sztokholmie — drewniane historyczne domy i zagroda ze zwierzętami na zielonej wyspie](https://images.unsplash.com/photo-1524399848685-eef4a83e5bdd?w=800&q=80&auto=format&fit=crop)
+*Skansen (1891) — pierwszy skansen na świecie. Historyczne budynki z całej Szwecji: chałupy, wiatraki, kościoły w strojach historycznych. Łosie, niedźwiedzie i renifery żywe na wybiegu*
+
 Pierwszy na świecie skanzen (1891) — oryginalne budynki z całej Szwecji przeniesione na jedno wzgórze: chałupy, wiatraki, szlachecki dwór, kuźnia, kościół. Żywe zwierzęta rodzimych gatunków. Latem w strojach historycznych.
 
 Bilet ok. 220 SEK (ok. 19 EUR).
@@ -45,6 +48,9 @@ Zielona wyspa z Vasą, Skanzenem, ABBA Museum, Thielska Galerie. Idealna na cał
 
 ## 6. Fotografiska — Muzeum Fotografii
 
+![Muzeum fotografii Fotografiska w Sztokholmie — galeria ze zdjęciami i widokiem na port z kawiarni na dachu](https://images.unsplash.com/photo-1515488764276-beab7607c1e6?w=800&q=80&auto=format&fit=crop)
+*Fotografiska — jedno z najważniejszych muzeów fotografii świata. Budynek ze 1906 na nabrzeżu Södermalm. Wystawy znanych fotografów i kawiarnia z widokiem na Sztokholm*
+
 Jedno z największych muzeów fotografii na świecie. Spektakularne wystawy czasowe — fotografowie z całego świata. Kawiarnia z widokiem na port. Modne miejsce Sztokholmu.
 
 Bilet ok. 250 SEK (ok. 21 EUR).
@@ -59,6 +65,9 @@ Bilet ok. 250 SEK (ok. 21 EUR).
 Bilet pałac: ok. 160 SEK. Łódź z centrum: ok. 220 SEK (powrót).
 
 ## 8. Södermalm — hipsterski Sztokholm
+
+![Widok z Monteliusvägen na Gamla Stan i Riddarfjärden w Sztokholmie — panorama starego miasta o złotej godzinie](https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800&q=80&auto=format&fit=crop&crop=bottom)
+*Södermalm — hipsterska dzielnica z najlepszym widokiem na Gamla Stan. Monteliusvägen (bezpłatna!) to romantyczna promenada wzdłuż klifu z panoramą Sztokholmu i Bałtyku*
 
 Dzielnica na wzgórzu z niezliczonymi kawiarniami, vintage shops, restauracjami i najlepszym widokiem na Stare Miasto z Monteliusvagen (promenada widokowa — bezpłatna).
 

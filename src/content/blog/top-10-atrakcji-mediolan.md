@@ -29,6 +29,9 @@ Tradycja: kręć się na piętce buta na głowie byka w posadzce (mosaic of Turi
 
 ## 3. Ostatnia Wieczerza Leonarda da Vinci (Il Cenacolo)
 
+![Santa Maria delle Grazie w Mediolanie — renesansowy kościół z refektarzem mieszczącym Ostatnią Wieczerzę Leonarda](https://images.unsplash.com/photo-1543429258-f0d72d93ce34?w=800&q=80&auto=format&fit=crop&crop=top)
+*Santa Maria delle Grazie (UNESCO) — w refektarzu tego kościoła Leonardo da Vinci namalował Ostatnią Wieczerzę (1495–1498). Rezerwacja obowiązkowa 2–3 miesiące wcześniej!*
+
 Fresk namalowany przez Leonarda da Vinci w 1498 roku na ścianie refektarza Santa Maria delle Grazie. To nie obraz — to mural bezpośrednio na tynku, który zaczął się sypać już za życia autora.
 
 **OBOWIĄZKOWA rezerwacja** na konkretną godzinę — bilety wyprzedają się na 2–3 miesiące z góry. Bilet ok. 15 EUR. Wejście tylko w grupach 25-osobowych, czas zwiedzania: 15 minut. Ale te 15 minut jest niepowtarzalne.
@@ -52,6 +55,9 @@ Brera to artystyczna dzielnica Mediolanu — brukowane uliczki, galerie, antykwa
 
 ## 6. Navigli — kanały Mediolanu
 
+![Navigli w Mediolanie — wieczorny widok na kanał z restauracjami i barami po obu stronach, aperitivo hour](https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&q=80&auto=format&fit=crop)
+*Navigli — system kanałów projektowany przez Leonarda da Vinci. Dziś dzielnica aperitivo: za cenę drinka (8 EUR) dostajemy bufet przystawek. Najlepsza atmosfera Mediolanu po 18:00*
+
 Dzielnica kanałów na południu centrum — jedyne zachowane fragmenty historycznej sieci wodnej Mediolanu (projektował ją m.in. Leonardo da Vinci!). Dziś: restauracje, bary, vintage i najlepsza atmosfera aperitivo w mieście.
 
 Aperitivo hour (18:00–21:00): za cenę drinka (ok. 8 EUR) dostajemy bufet przystawek — mediolańska tradycja.
@@ -69,6 +75,9 @@ La Scala to jeden z najsławniejszych teatrów operowych na świecie. Bilety na 
 **Wskazówka:** Bilety do lóż stojących na przedstawienie są często tańsze i dostępne w dniu spektaklu.
 
 ## 9. Porta Nuova — nowoczesny Mediolan
+
+![Bosco Verticale w Mediolanie — dwa wieżowce pokryte drzewami i roślinami, zielone wieże na tle nieba](https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80&auto=format&fit=crop)
+*Bosco Verticale (Pionowy Las) — dwa wieżowce z 800 drzewami i 15 000 roślinami posadzonymi na balkonach. Projekt Stefano Boeriego, 2014. Ikona nowoczesnej architektury Mediolanu*
 
 Dzielnica ultranowoczesna z Bosco Verticale (pionowy las na wieżowcach), Unicredit Tower i placem Gae Aulenti. Piękny kontrast dla historycznego centrum.
 

@@ -37,11 +37,17 @@ Game of Thrones Tours (ok. 25–40 EUR) przeprowadzą Cię przez wszystkie lokal
 
 ## 4. Stare Miasto — labirynt uliczek
 
+![Wąska uliczka w Starym Mieście Dubrownika — biały kamień, schody i kwiaty na balkonach](https://images.unsplash.com/photo-1533587851505-d119e13fa0d7?w=800&q=80&auto=format&fit=crop)
+*Uliczki Starego Miasta — wapienne schody, bougainvillea na balkonach, lokalne sklepy w gotyckich łukach. Wewnątrz murów czas zwalnia*
+
 Wewnątrz murów — gotyckie kościoły, renesansowe pałace, schodkowe uliczki, schowane dziedzińce. Katedra Wniebowzięcia z obrazem Tycjana (wstęp ok. 5 EUR), kościół Świętego Zbawiciela (Sveti Spas, bezpłatny), Pałac Sponza.
 
 Fontanna Onofria na początku Stradunu (1438) — gdzie niegdyś mieścił się system wodociągowy miasta.
 
 ## 5. Wyspa Lokrum
+
+![Wyspa Lokrum przy Dubrowniku — gęsta roślinność i turkusowe wody Adriatyku, miniaturowe laguny do pływania](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80&auto=format&fit=crop)
+*Lokrum — bezsamochodowa wyspa 15 min promem od Starego Portu. Ruiny klasztoru, jezioro morskie "Dead Sea", duma z pawich i zatoczki do pływania*
 
 15 minut promem ze Starego Portu (ok. 15 EUR w dwie strony). Bezsamochodowa wysepka z bujną roślinnością, ruinami klasztoru benedyktynów, mnichami i kolorowymi pawimi. I martwym jeziorem morskim (Dead Sea — sól morska, niesamowite pływanie).
 
@@ -67,6 +73,9 @@ Pływanie przy Dubrownikach: skocznia przy Banje Beach, plaże Buža ("rupe w mu
 Dubrovnik przez 450 lat był niezależną republiką — jedną z pierwszych, która zniosła handel niewolnikami (1416). Muzeum w Rektorskim Pałacu (Knežev Dvor, ok. 15 EUR) to historia jedynego wolnego miasta Adriatyku.
 
 ## 9. Buža Bar — drink przy murze nad morzem
+
+![Bar Buža w Dubrowniku — taras w skale przy murach obronnych nad turkusowym Adriatykiem](https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop)
+*Buža Bar — "dziura w murze". Skalny taras wbudowany w zewnętrzne mury Starego Miasta. Drink za 10 EUR z widokiem na otwarte morze i skaczącymi do wody turystami*
 
 Dwa bary "Buža" (co znaczy "dziura") wbudowane w zewnętrzne mury Starego Miasta — dosłownie hole w ścianie, z których wychodzimy na skaliste tarasy nad Adriatykiem. Drink za 8–12 EUR z widokiem na otwarte morze — niezapomniane.
 

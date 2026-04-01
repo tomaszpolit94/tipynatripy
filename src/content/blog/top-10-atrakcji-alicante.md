@@ -29,6 +29,9 @@ Dobre plaże w okolicy: Playa de San Juan (6 km na północ, spokojniejsza), Pla
 
 ## 3. Promenada Esplanade d'Espanya
 
+![Promenada Esplanade d'Espanya w Alicante — mozaikowy deptak z palmami wzdłuż brzegu morza](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80&auto=format&fit=crop)
+*Esplanade d'Espanya — 500 metrów wyłożonych 6,5 mln kafli w trzy kolory. Jeden z najpiękniejszych deptaków Europy, wieczorami tętnący życiem*
+
 Jeden z najpiękniejszych deptaków Europy — 500 metrów palmowej alei wyłożonej mozaiką z 6,5 miliona kafli w trzy kolory. Wieczorami tutaj spacerują wszyscy Alicantinos. Bezpłatna, przez całą dobę.
 
 Przy Esplanade: port jachtowy, restauracje z owocami morza, kawiarnie.
@@ -57,11 +60,17 @@ Wstęp do zamku: ok. 3 EUR. Okolica świetna na trekking.
 
 ## 8. Tapas i gastronomia alicantyjska
 
+![Tapas i owoce morza w restauracji na Costa Blanca — gambas al ajillo i arroz a banda na stole](https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&q=80&auto=format&fit=crop)
+*Kuchnia alicantyjska — arroz a banda (ryż gotowany w bulionie rybnym), gambas al ajillo i turrón migdałowy. Jedzenie regionalne bez turystycznych cen*
+
 Alicante to region ryżu i owoców morza. Tu paella jest czymś normalnym — nie turystycznym. Arroz a banda (ryż z rybą gotowany w bulionie rybnym), caldero (ryż z rybą z żeglarzy), turrón (nuga migdałowa — specjalność Jijony i Alicante na całą Europę).
 
 Mercado Central de Abastos to doskonałe miejsce na śniadanie i zakupy lokalnych produktów.
 
 ## 9. Rejs na wyspę Tabarca
+
+![Wyspa Tabarca koło Alicante — mała wysepka śródziemnomorska z turkusową wodą i rezerwatem morskim](https://images.unsplash.com/photo-1474524955719-b9f87c50ce47?w=800&q=80&auto=format&fit=crop)
+*Tabarca — jedyna zamieszkana wysepka z rezerwą morską UNESCO. 25 min łódką, snorkeling w krystalicznie czystej wodzie*
 
 Jedyna zamieszkana wysepka na Morzu Śródziemnym z rezerwą morską UNESCO. 25 min łódką z Alicante (ok. 20 EUR w dwie strony), maluteńka wioska rybacka, Rezerwat Morski z doskonałym snorkelingiem.
 

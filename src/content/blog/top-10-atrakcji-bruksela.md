@@ -37,6 +37,9 @@ W sąsiedztwie: Musées Royaux des Beaux-Arts (Królewskie Muzeum Sztuk Pięknyc
 
 ## 4. Atomium
 
+![Atomium w Brukseli — futurystyczna konstrukcja ze stalowych kul symbolizujących atomy żelaza](https://images.unsplash.com/photo-1560969184-10fe8719e047?w=800&q=80&auto=format&fit=crop)
+*Atomium (1958) — 9 stalowych kul reprezentujących kryształ żelaza powiększony 165 miliardów razy. Symbol belgijskiej innowacji technologicznej*
+
 Futurystyczna budowla z Wystawy Światowej 1958 — gigantyczne atomy żelaza powiększone 165 miliardów razy. Wnętrza: muzeum wystawy, panorama Brukseli, restauracja. Wstęp ok. 16 EUR.
 
 Obok: Mini-Europe (miniaturki słynnych europejskich budowli, ok. 20 EUR) — kiczowate, ale urocze.
@@ -46,6 +49,9 @@ Obok: Mini-Europe (miniaturki słynnych europejskich budowli, ok. 20 EUR) — ki
 Najpiękniejsza pasaż handlowa Europy — starszy od mediolańskiej (1847). Sklepy z czekoladą (Neuhaus, Godiva, Wittamer), kawiarnie, teatr, kino. Wstęp wolny — tylko spacer jest darmowy.
 
 ## 6. Belgijskie piwo w lokalnym "café"
+
+![Belgijskie piwo trapistyczne — kieliszek Chimay lub Orval z opactwem w tle, tradycja piwowarska od XI w.](https://images.unsplash.com/photo-1574096079513-d8259312b785?w=800&q=80&auto=format&fit=crop)
+*Belgijskie piwo — 1600 gatunków, w tym trapistyczne warzone przez mnichów. Każde ma własny kieliszek. Delirium Café w Brukseli ma w karcie ponad 3000 piw — rekord Guinnessa*
 
 Belgia to kraj 1000 piw. Belgia to kraj, gdzie trapistyczne abbaye warzą piwo według receptur z XI wieku. Tu wychodzi na jaw różnica między piwem "zimnym" a piwem "smacznym".
 
@@ -71,6 +77,9 @@ Bruksela to jedno z kolebek secesji. Domy Victora Horty (architekt, który wynal
 Bezpłatna lista map Art Nouveau: dostępna w centrum informacji turystycznej na Grand Place.
 
 ## 10. Waffles i czekolada — kulinarny rytuał
+
+![Belgijska gofra — wafel brukselski z bitą śmietaną i świeżymi truskawkami na papierowym talerzyku](https://images.unsplash.com/photo-1562059390-a761a084768e?w=800&q=80&auto=format&fit=crop)
+*Belgijska gofra (waffle) — brukselska jest lekka i kwadratowa, liège jest owalna i drożdżowa. Z bitą śmietaną i świeżymi owocami to jedno z najprostszych i najlepszych doświadczeń kulinarnych Belgii*
 
 Belgijska gofra (waffle) ma dwa rodzaje: brukselska (kwadratowa, lekka, bez drożdży — jemy z bitą śmietaną i owocami) i Liège (owalna, drożdżowa, słodsza — jemy na ciepło, solo). Różnica jest kolosalna.
 

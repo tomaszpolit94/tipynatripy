@@ -31,6 +31,9 @@ Wstęp na most: bezpłatny. Pieszo 15 minut z centrum.
 
 ## 3. Piwnice wina portowego (Port Wine Caves)
 
+![Piwnice wina portowego w Vila Nova de Gaia — beczki dębowe z dojrzewającym port wine w chłodnych piwnicach](https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80&auto=format&fit=crop)
+*Port wine caves w Gaia — setki tysięcy beczek z dojrzewającym winem portowym. Wycieczka + degustacja: ok. 15–20 EUR. Taylor's, Sandeman, Graham's — każda piwnica ma własną historię*
+
 Przez rzekę od Ribeira, po stronie Gaia — dziesiątki piwnic z winem portowym. Taylor's, Sandeman, Cálem, Graham's — wycieczka + degustacja od ok. 15–20 EUR. Wino portowe degustowane bezpośrednio przy piwnicach gdzie dojrzewa.
 
 **Wskazówka:** Cálem ma świetne wycieczki z pokazem fado. Ceny biletów są bardzo zbliżone — różnią się tłumami i terminami.
@@ -50,6 +53,9 @@ Inne kościoły z niesamowitymi azulejos: Igreja de Santo Ildefonso i kaplica Al
 
 ## 6. Livraria Lello — najpiękniejsza księgarnia świata
 
+![Wnętrze Livraria Lello w Porto — neogotyckie schody, witraże i regały pełne książek](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&q=80&auto=format&fit=crop)
+*Livraria Lello (1906) — jedna z najpiękniejszych księgarni świata: kręte drewniane schody Art Nouveau, witraż na suficie, pełne regały. Bilet 5 EUR (odliczany od zakupów)*
+
 Gotycka neorenesansowa księgarnia z 1906 roku — inspiracja J.K. Rowling dla Hogwartu (choć sama to kwestionuje). Kręte drewniane schody, witraż sufitowy, pełne półki. Bilet wstępu: ok. 5 EUR (odliczany od zakupów).
 
 Kolejka może być długa w sezonie — przyjdź rano lub kup bilet online.
@@ -67,6 +73,9 @@ Punkt widokowy na wzgórzu po stronie Gaia (przy moście Dom Luís, górny pozio
 Klasztor Serra do Pilar tuż obok (XVII w.) — zwiedzanie ok. 5 EUR.
 
 ## 9. Matosinhos — plaża i owoce morza
+
+![Grillowana ośmiornica w restauracji w Matosinhos — świeże owoce morza prosto z łodzi rybackich w Porto](https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&q=80&auto=format&fit=crop)
+*Matosinhos — dzielnica rybacka 20 min metrem od centrum. Restauracje ze świeżą ośmiornicą, doradą i langustą prosto z portu. Najlepsze owoce morza w regionie za rozsądne pieniądze*
 
 20 minut metrem od centrum. Matosinhos to dzielnica rybacka z najlepszymi restauracjami rybnymi w regionie. Ośmiornica z rusztu, dorady, tuńczyk — wprost z łodzi rybackiej.
 

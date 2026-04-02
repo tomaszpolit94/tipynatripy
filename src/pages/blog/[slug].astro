@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -72,7 +73,7 @@ const updatedDate = post.data.updatedDate?.toLocaleDateString('pl-PL', {
         post.data.tags.length > 0 && (
           <div class="flex flex-wrap gap-2 mb-4">
             {post.data.tags.map((tag) => (
-              <span class="text-xs bg-sky-50 text-sky-600 px-3 py-1 rounded-full">{tag}</span>
+              <a href={`/blog/tag/${tag}/`} class="text-xs bg-sky-50 text-sky-600 px-3 py-1 rounded-full hover:bg-sky-100 transition-colors">{tag}</a>
             ))}
           </div>
         )
@@ -134,6 +135,11 @@ const updatedDate = post.data.updatedDate?.toLocaleDateString('pl-PL', {
         </aside>
       )
     }
+
+    <!-- Newsletter -->
+    <div class="mt-10">
+      <NewsletterSignup variant="compact" />
+    </div>
 
     <!-- Related travel plans -->
     {relatedPlany.length > 0 && (

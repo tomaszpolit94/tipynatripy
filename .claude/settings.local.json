@@ -1,7 +1,18 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(git commit:*)",
+      "Bash(grep \"\\\\.md$\")",
+      "WebFetch(domain:rejestr.io)",
+      "WebFetch(domain:api-v3.mojepanstwo.pl)",
+      "WebFetch(domain:wyszukiwarka.ms.gov.pl)",
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:biznes.gov.pl)",
+      "WebFetch(domain:krs-online.com.pl)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(npm install:*)"
     ]
   }
 }

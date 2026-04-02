@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
+  const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+  return paginate(posts, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
+const posts = page.data;
+---
+
+<BaseLayout
+  title={page.currentPage === 1 ? 'Blog podróżniczy' : `Blog podróżniczy — strona ${page.currentPage}`}
+  description="Artykuły o tanich lotach, podróżach i wskazówki dla podróżników. Regularnie aktualizowane porady i inspiracje."
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">Blog</span>
+    </nav>
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">Blog podróżniczy</h1>
+      <p class="text-gray-500 text-lg max-w-2xl mx-auto">
+        Artykuły, porady i inspiracje dla oszczędnych podróżników.
+      </p>
+    </div>
+
+    <AdSlot position="blog-list-top" />
+
+    {
+      posts.length === 0 ? (
+        <p class="text-center text-gray-400 py-16 text-lg">Artykuły wkrótce!</p>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {posts.map((post) => (
+            <PostCard
+              title={post.data.title}
+              description={post.data.description}
+              pubDate={post.data.pubDate}
+              slug={post.slug}
+              section="blog"
+              tags={post.data.tags}
+              heroImage={post.data.heroImage}
+            />
+          ))}
+        </div>
+      )
+    }
+
+    <!-- Pagination -->
+    {page.lastPage > 1 && (
+      <nav class="flex justify-center items-center gap-2 mt-12" aria-label="Paginacja">
+        {page.url.prev && (
+          <a
+            href={page.url.prev}
+            class="px-4 py-2 rounded-lg border border-gray-200 text-sm font-medium text-gray-600 hover:border-sky-300 hover:text-sky-600 transition-colors"
+          >
+            ← Poprzednia
+          </a>
+        )}
+        {Array.from({ length: page.lastPage }, (_, i) => i + 1).map((num) => (
+          <a
+            href={num === 1 ? '/blog/' : `/blog/${num}/`}
+            class={`w-10 h-10 flex items-center justify-center rounded-lg text-sm font-medium transition-colors ${
+              num === page.currentPage
+                ? 'bg-sky-600 text-white'
+                : 'border border-gray-200 text-gray-600 hover:border-sky-300 hover:text-sky-600'
+            }`}
+            aria-current={num === page.currentPage ? 'page' : undefined}
+          >
+            {num}
+          </a>
+        ))}
+        {page.url.next && (
+          <a
+            href={page.url.next}
+            class="px-4 py-2 rounded-lg border border-gray-200 text-sm font-medium text-gray-600 hover:border-sky-300 hover:text-sky-600 transition-colors"
+          >
+            Następna →
+          </a>
+        )}
+      </nav>
+    )}
+  </div>
+</BaseLayout>

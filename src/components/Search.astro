@@ -1,0 +1,171 @@
+---
+// Search modal component — Fuse.js client-side full-text search
+---
+
+<!-- Search trigger button -->
+<button
+  id="search-btn"
+  aria-label="Szukaj"
+  class="p-2 rounded-md text-gray-600 hover:text-sky-600 hover:bg-sky-50 transition-colors"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
+  </svg>
+</button>
+
+<!-- Modal backdrop -->
+<div
+  id="search-modal"
+  class="fixed inset-0 z-[100] hidden"
+  role="dialog"
+  aria-modal="true"
+  aria-label="Wyszukiwarka"
+>
+  <!-- Backdrop -->
+  <div id="search-backdrop" class="absolute inset-0 bg-black/50 backdrop-blur-sm"></div>
+
+  <!-- Modal panel -->
+  <div class="relative max-w-2xl mx-auto mt-16 px-4">
+    <div class="bg-white rounded-2xl shadow-2xl overflow-hidden">
+      <!-- Input -->
+      <div class="flex items-center gap-3 px-4 py-3 border-b border-gray-100">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
+        </svg>
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Szukaj artykułów, tipów, planów..."
+          autocomplete="off"
+          class="flex-1 text-gray-900 placeholder-gray-400 bg-transparent outline-none text-base"
+        />
+        <kbd class="hidden sm:inline-flex items-center gap-1 px-2 py-1 text-xs text-gray-400 bg-gray-100 rounded">Esc</kbd>
+      </div>
+
+      <!-- Results -->
+      <div id="search-results" class="max-h-[60vh] overflow-y-auto">
+        <div id="search-empty" class="py-12 text-center text-gray-400 text-sm">
+          Wpisz frazę, aby wyszukać
+        </div>
+        <ul id="search-list" class="hidden divide-y divide-gray-50 py-2"></ul>
+        <div id="search-no-results" class="hidden py-12 text-center text-gray-400 text-sm">
+          Brak wyników — spróbuj innej frazy
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import Fuse from 'fuse.js';
+
+  const btn = document.getElementById('search-btn');
+  const modal = document.getElementById('search-modal');
+  const backdrop = document.getElementById('search-backdrop');
+  const input = document.getElementById('search-input') as HTMLInputElement;
+  const list = document.getElementById('search-list') as HTMLUListElement;
+  const empty = document.getElementById('search-empty');
+  const noResults = document.getElementById('search-no-results');
+
+  const sectionLabels: Record<string, string> = {
+    blog: 'Blog',
+    tipy: 'Tipy',
+    loty: 'Loty',
+    plany: 'Plany',
+    okazje: 'Okazje',
+  };
+  const sectionColors: Record<string, string> = {
+    blog: 'bg-sky-100 text-sky-700',
+    tipy: 'bg-amber-100 text-amber-700',
+    loty: 'bg-emerald-100 text-emerald-700',
+    plany: 'bg-purple-100 text-purple-700',
+    okazje: 'bg-rose-100 text-rose-700',
+  };
+
+  type SearchItem = { title: string; description: string; url: string; tags: string[]; section: string };
+  let fuse: Fuse<SearchItem> | null = null;
+
+  async function loadIndex() {
+    if (fuse) return;
+    const res = await fetch('/search-index.json');
+    const data: SearchItem[] = await res.json();
+    fuse = new Fuse(data, {
+      keys: [
+        { name: 'title', weight: 2 },
+        { name: 'description', weight: 1 },
+        { name: 'tags', weight: 1 },
+      ],
+      threshold: 0.35,
+      includeScore: true,
+      minMatchCharLength: 2,
+    });
+  }
+
+  function openModal() {
+    modal?.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+    loadIndex().then(() => input?.focus());
+  }
+
+  function closeModal() {
+    modal?.classList.add('hidden');
+    document.body.style.overflow = '';
+    if (input) input.value = '';
+    renderResults([]);
+    empty?.classList.remove('hidden');
+    list?.classList.add('hidden');
+    noResults?.classList.add('hidden');
+  }
+
+  function renderResults(results: Fuse.FuseResult<SearchItem>[]) {
+    if (!list) return;
+    list.innerHTML = '';
+    if (results.length === 0) return;
+    results.slice(0, 8).forEach(({ item }) => {
+      const li = document.createElement('li');
+      li.innerHTML = `
+        <a href="${item.url}" class="flex items-start gap-3 px-4 py-3 hover:bg-sky-50 transition-colors group">
+          <span class="flex-shrink-0 mt-0.5 text-xs font-medium px-2 py-0.5 rounded-full ${sectionColors[item.section] ?? 'bg-gray-100 text-gray-600'}">
+            ${sectionLabels[item.section] ?? item.section}
+          </span>
+          <div class="min-w-0">
+            <p class="text-sm font-semibold text-gray-900 group-hover:text-sky-600 transition-colors truncate">${item.title}</p>
+            <p class="text-xs text-gray-400 mt-0.5 line-clamp-1">${item.description}</p>
+          </div>
+        </a>`;
+      list.appendChild(li);
+    });
+  }
+
+  btn?.addEventListener('click', openModal);
+  backdrop?.addEventListener('click', closeModal);
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeModal();
+    if ((e.key === 'k' && (e.metaKey || e.ctrlKey))) {
+      e.preventDefault();
+      openModal();
+    }
+  });
+
+  input?.addEventListener('input', () => {
+    const q = input.value.trim();
+    if (!q) {
+      list?.classList.add('hidden');
+      noResults?.classList.add('hidden');
+      empty?.classList.remove('hidden');
+      return;
+    }
+    empty?.classList.add('hidden');
+    if (!fuse) return;
+    const results = fuse.search(q);
+    if (results.length === 0) {
+      list?.classList.add('hidden');
+      noResults?.classList.remove('hidden');
+    } else {
+      noResults?.classList.add('hidden');
+      list?.classList.remove('hidden');
+      renderResults(results);
+    }
+  });
+</script>

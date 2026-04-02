@@ -1,0 +1,114 @@
+---
+interface Props {
+  variant?: 'full' | 'compact';
+}
+const { variant = 'full' } = Astro.props;
+---
+
+{variant === 'full' ? (
+  <section class="bg-gradient-to-br from-sky-600 to-sky-700 rounded-2xl px-6 py-10 md:px-10 text-white text-center">
+    <div class="max-w-xl mx-auto">
+      <div class="text-4xl mb-3">✉️</div>
+      <h2 class="text-2xl md:text-3xl font-extrabold mb-2">Nie przegap okazji lotniczych</h2>
+      <p class="text-sky-100 mb-6 text-base">
+        Co tydzień: najtańsze loty, błędy cenowe i tipy podróżne prosto na Twoją skrzynkę. Bezpłatnie, bez spamu.
+      </p>
+      <!-- Mailchimp embed form — replace ACTION_URL with your Mailchimp form action -->
+      <form
+        id="newsletter-form"
+        class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
+        novalidate
+      >
+        <label for="newsletter-email" class="sr-only">Adres e-mail</label>
+        <input
+          id="newsletter-email"
+          name="EMAIL"
+          type="email"
+          required
+          placeholder="twoj@email.pl"
+          class="flex-1 px-4 py-3 rounded-xl text-gray-900 placeholder-gray-400 bg-white focus:outline-none focus:ring-2 focus:ring-white/50 text-sm"
+        />
+        <button
+          type="submit"
+          class="px-6 py-3 bg-amber-400 hover:bg-amber-300 text-gray-900 font-bold rounded-xl transition-colors text-sm whitespace-nowrap"
+        >
+          Zapisz się →
+        </button>
+      </form>
+      <p id="newsletter-msg" class="hidden mt-3 text-sky-100 text-sm"></p>
+      <p class="mt-4 text-sky-200 text-xs">Możesz się wypisać w każdej chwili. Szanujemy Twoją prywatność.</p>
+    </div>
+  </section>
+) : (
+  <div class="bg-sky-50 border border-sky-100 rounded-xl px-5 py-5">
+    <h3 class="font-bold text-gray-900 text-base mb-1">Newsletter podróżny 📬</h3>
+    <p class="text-gray-500 text-sm mb-3">Okazje lotnicze i tipy co tydzień. Bezpłatnie.</p>
+    <form id="newsletter-form-compact" class="flex gap-2" novalidate>
+      <label for="newsletter-email-compact" class="sr-only">E-mail</label>
+      <input
+        id="newsletter-email-compact"
+        name="EMAIL"
+        type="email"
+        required
+        placeholder="twoj@email.pl"
+        class="flex-1 px-3 py-2 rounded-lg border border-gray-200 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-sky-300"
+      />
+      <button
+        type="submit"
+        class="px-4 py-2 bg-sky-600 hover:bg-sky-700 text-white font-semibold rounded-lg text-sm transition-colors"
+      >
+        →
+      </button>
+    </form>
+    <p id="newsletter-msg-compact" class="hidden mt-2 text-sky-700 text-xs"></p>
+  </div>
+)}
+
+<script>
+  // Newsletter form handler
+  // Replace MAILCHIMP_URL with your Mailchimp embed action URL
+  // or set window.NEWSLETTER_URL = '...' in a script tag elsewhere
+  const NEWSLETTER_URL = (window as any).NEWSLETTER_URL ?? '';
+
+  function handleForm(formId: string, msgId: string) {
+    const form = document.getElementById(formId) as HTMLFormElement | null;
+    const msg = document.getElementById(msgId);
+    if (!form) return;
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = (form.querySelector('input[type="email"]') as HTMLInputElement)?.value;
+      if (!email) return;
+
+      if (!NEWSLETTER_URL) {
+        // No Mailchimp URL configured — show placeholder message
+        if (msg) {
+          msg.textContent = 'Newsletter wkrótce dostępny! 🚀';
+          msg.classList.remove('hidden');
+        }
+        return;
+      }
+
+      try {
+        await fetch(NEWSLETTER_URL, {
+          method: 'POST',
+          mode: 'no-cors',
+          body: new FormData(form),
+        });
+        if (msg) {
+          msg.textContent = 'Zapisano! Sprawdź swoją skrzynkę 📬';
+          msg.classList.remove('hidden');
+        }
+        form.reset();
+      } catch {
+        if (msg) {
+          msg.textContent = 'Coś poszło nie tak. Spróbuj ponownie.';
+          msg.classList.remove('hidden');
+        }
+      }
+    });
+  }
+
+  handleForm('newsletter-form', 'newsletter-msg');
+  handleForm('newsletter-form-compact', 'newsletter-msg-compact');
+</script>

@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import TripCard from '../components/TripCard.astro';
 import AnimatedPlane from '../components/AnimatedPlane.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 import { getCollection } from 'astro:content';
 
 const latestPosts = (await getCollection('blog', ({ data }) => !data.draft))
@@ -179,6 +180,11 @@ const sections = [
       </section>
     )
   }
+
+  <!-- Newsletter -->
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <NewsletterSignup variant="full" />
+  </section>
 
   <!-- CTA banner -->
   <section class="bg-sky-600 text-white py-14 px-4">

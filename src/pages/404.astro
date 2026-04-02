@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Strona nie istnieje — Tipynatripy.pl"
+  description="Nie znaleziono strony. Wróć na stronę główną lub skorzystaj z nawigacji."
+>
+  <div class="min-h-[60vh] flex items-center justify-center px-4 py-16">
+    <div class="text-center max-w-lg">
+      <!-- Animowany samolot -->
+      <div class="text-8xl mb-6 select-none" aria-hidden="true">✈️</div>
+
+      <h1 class="text-6xl font-extrabold text-sky-600 mb-3">404</h1>
+      <h2 class="text-2xl font-bold text-gray-900 mb-3">Ups! Ta strona gdzieś odleciała</h2>
+      <p class="text-gray-500 mb-8">
+        Strona, której szukasz nie istnieje lub została przeniesiona.
+        Może zaczniemy od strony głównej?
+      </p>
+
+      <div class="flex flex-wrap gap-3 justify-center mb-10">
+        <a
+          href="/"
+          class="bg-sky-600 hover:bg-sky-700 text-white font-semibold px-6 py-3 rounded-full transition-colors"
+        >
+          Strona główna
+        </a>
+        <a
+          href="/plany/"
+          class="bg-white hover:bg-gray-50 text-gray-700 font-semibold px-6 py-3 rounded-full border border-gray-200 transition-colors"
+        >
+          Plany wycieczek
+        </a>
+        <a
+          href="/blog/"
+          class="bg-white hover:bg-gray-50 text-gray-700 font-semibold px-6 py-3 rounded-full border border-gray-200 transition-colors"
+        >
+          Blog
+        </a>
+      </div>
+
+      <!-- Popularne kierunki -->
+      <div class="border-t border-gray-100 pt-8">
+        <p class="text-sm text-gray-400 mb-4">Może zainteresuje Cię jedno z tych miejsc?</p>
+        <div class="flex flex-wrap gap-2 justify-center">
+          {[
+            { href: '/blog/top-10-atrakcji-rzym/', label: '🏛️ Rzym' },
+            { href: '/blog/top-10-atrakcji-barcelona/', label: '🌊 Barcelona' },
+            { href: '/blog/top-10-atrakcji-paryz/', label: '🗼 Paryż' },
+            { href: '/plany/londyn-4-dni/', label: '🎡 Londyn' },
+            { href: '/plany/praga-3-dni/', label: '🏰 Praga' },
+            { href: '/plany/dubaj-5-dni/', label: '🌆 Dubaj' },
+          ].map(({ href, label }) => (
+            <a
+              href={href}
+              class="text-sm bg-sky-50 hover:bg-sky-100 text-sky-700 px-4 py-1.5 rounded-full transition-colors"
+            >
+              {label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

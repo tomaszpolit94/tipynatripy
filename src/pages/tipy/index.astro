@@ -40,9 +40,12 @@ const categories = [
     <div class="flex flex-wrap justify-center gap-3 mb-10">
       {
         categories.map(({ slug, label, icon }) => (
-          <span class="bg-white border border-gray-200 text-gray-600 px-4 py-2 rounded-full text-sm hover:border-sky-300 hover:text-sky-600 transition-colors cursor-default">
+          <a
+            href={`/tipy/${slug}/`}
+            class="bg-white border border-gray-200 text-gray-600 px-4 py-2 rounded-full text-sm hover:border-sky-300 hover:text-sky-600 transition-colors"
+          >
             {icon} {label}
-          </span>
+          </a>
         ))
       }
     </div>

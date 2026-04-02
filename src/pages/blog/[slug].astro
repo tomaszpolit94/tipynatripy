@@ -23,6 +23,12 @@ const relatedPosts = allPosts
   )
   .slice(0, 3);
 
+// Related plany — match by tags overlap
+const allPlany = await getCollection('plany', ({ data }) => !data.draft);
+const relatedPlany = allPlany
+  .filter((p) => p.data.tags.some((tag) => post.data.tags.includes(tag)))
+  .slice(0, 2);
+
 const formattedDate = post.data.pubDate.toLocaleDateString('pl-PL', {
   year: 'numeric',
   month: 'long',
@@ -128,6 +134,26 @@ const updatedDate = post.data.updatedDate?.toLocaleDateString('pl-PL', {
         </aside>
       )
     }
+
+    <!-- Related travel plans -->
+    {relatedPlany.length > 0 && (
+      <aside class="mt-10 pt-8 border-t border-gray-100">
+        <h2 class="text-xl font-bold text-gray-900 mb-5">Plany wycieczek</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {relatedPlany.map((p) => (
+            <a href={`/plany/${p.slug}/`} class="group flex gap-3 bg-sky-50 rounded-xl border border-sky-100 p-4 hover:shadow-md transition-shadow">
+              {p.data.heroImage && (
+                <img src={p.data.heroImage} alt={p.data.title} class="w-16 h-16 rounded-lg object-cover flex-shrink-0" loading="lazy" width="64" height="64" />
+              )}
+              <div>
+                <span class="text-xs text-sky-600 font-medium uppercase tracking-wide">Plan wycieczki · {p.data.duration}</span>
+                <h3 class="text-sm font-semibold text-gray-900 group-hover:text-sky-600 transition-colors leading-snug mt-1 line-clamp-2">{p.data.title}</h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </aside>
+    )}
 
     <!-- Back link -->
     <div class="mt-10 pt-6 border-t border-gray-100">

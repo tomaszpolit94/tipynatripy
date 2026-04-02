@@ -1,0 +1,102 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const categories = [
+    { slug: 'pakowanie', label: 'Pakowanie', icon: '🧳', description: 'Jak spakować walizkę, co zabrać w podróż i jak zmieścić wszystko w bagażu podręcznym.' },
+    { slug: 'ubezpieczenie', label: 'Ubezpieczenia', icon: '🛡️', description: 'Ubezpieczenie turystyczne, EKUZ, ochrona zdrowia za granicą — co wybrać i dlaczego.' },
+    { slug: 'wizy', label: 'Wizy', icon: '📋', description: 'Wizy dla Polaków — kiedy potrzebujesz wizy, jak złożyć wniosek i co ze sobą zabrać.' },
+    { slug: 'transport', label: 'Transport', icon: '🚌', description: 'Tanie loty, pociągi, wynajem auta — jak przemieszczać się za granicą mądrze i tanio.' },
+    { slug: 'noclegi', label: 'Noclegi', icon: '🏨', description: 'Jak wybrać hotel, Booking vs Airbnb, hostele — wszystko o noclegach w podróży.' },
+    { slug: 'finanse', label: 'Finanse', icon: '💳', description: 'Revolut, gotówka, przewalutowanie — jak zarządzać pieniędzmi podczas podróży.' },
+  ];
+
+  return categories.map((cat) => ({
+    params: { category: cat.slug },
+    props: { cat },
+  }));
+}
+
+const { cat } = Astro.props;
+
+const allTipy = await getCollection('tipy', ({ data }) => !data.draft);
+const tipy = allTipy
+  .filter((tip) => tip.data.category === cat.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const allCategories = [
+  { slug: 'pakowanie', label: 'Pakowanie', icon: '🧳' },
+  { slug: 'ubezpieczenie', label: 'Ubezpieczenia', icon: '🛡️' },
+  { slug: 'wizy', label: 'Wizy', icon: '📋' },
+  { slug: 'transport', label: 'Transport', icon: '🚌' },
+  { slug: 'noclegi', label: 'Noclegi', icon: '🏨' },
+  { slug: 'finanse', label: 'Finanse', icon: '💳' },
+];
+---
+
+<BaseLayout
+  title={`${cat.label} — tipy podróżne`}
+  description={cat.description}
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-sky-600">Strona główna</a>
+      <span class="mx-2">/</span>
+      <a href="/tipy/" class="hover:text-sky-600">Tipy</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-600">{cat.label}</span>
+    </nav>
+
+    <div class="text-center mb-10">
+      <div class="text-5xl mb-3">{cat.icon}</div>
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">{cat.label}</h1>
+      <p class="text-gray-500 text-lg max-w-2xl mx-auto">{cat.description}</p>
+    </div>
+
+    <!-- Category pills navigation -->
+    <div class="flex flex-wrap justify-center gap-3 mb-10">
+      {
+        allCategories.map(({ slug, label, icon }) => (
+          <a
+            href={`/tipy/${slug}/`}
+            class={`px-4 py-2 rounded-full text-sm transition-colors border ${
+              slug === cat.slug
+                ? 'bg-sky-600 text-white border-sky-600'
+                : 'bg-white border-gray-200 text-gray-600 hover:border-sky-300 hover:text-sky-600'
+            }`}
+          >
+            {icon} {label}
+          </a>
+        ))
+      }
+    </div>
+
+    <AdSlot position="blog-list-top" />
+
+    {
+      tipy.length === 0 ? (
+        <div class="text-center py-16">
+          <p class="text-gray-400 text-lg mb-4">Artykuły z tej kategorii wkrótce!</p>
+          <a href="/tipy/" class="text-sky-600 hover:underline">← Wróć do wszystkich tipów</a>
+        </div>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {tipy.map((tip) => (
+            <PostCard
+              title={tip.data.title}
+              description={tip.data.description}
+              pubDate={tip.data.pubDate}
+              slug={tip.slug}
+              section="tipy"
+              tags={[tip.data.category, ...tip.data.tags]}
+              heroImage={tip.data.heroImage}
+            />
+          ))}
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

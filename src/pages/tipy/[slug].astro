@@ -14,6 +14,12 @@ export async function getStaticPaths() {
 const { tip } = Astro.props;
 const { Content } = await render(tip);
 
+// Related tipy: same category, exclude current
+const allTipy = await getCollection('tipy', ({ data }) => !data.draft);
+const relatedTipy = allTipy
+  .filter((t) => t.slug !== tip.slug && t.data.category === tip.data.category)
+  .slice(0, 3);
+
 const formattedDate = tip.data.pubDate.toLocaleDateString('pl-PL', {
   year: 'numeric',
   month: 'long',
@@ -81,9 +87,30 @@ const categoryLabels: Record<string, string> = {
 
     <AdSenseSlot slotId="4234567892" />
 
+    {relatedTipy.length > 0 && (
+      <aside class="mt-12 pt-8 border-t border-gray-100">
+        <h2 class="text-xl font-bold text-gray-900 mb-5">Podobne tipy</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          {relatedTipy.map((t) => (
+            <a href={`/tipy/${t.slug}/`} class="group block bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+              {t.data.heroImage && (
+                <img src={t.data.heroImage} alt={t.data.title} class="w-full h-32 object-cover group-hover:scale-105 transition-transform duration-300" loading="lazy" width="400" height="128" />
+              )}
+              <div class="p-3">
+                <h3 class="text-sm font-semibold text-gray-900 group-hover:text-sky-600 transition-colors line-clamp-2 leading-snug">{t.data.title}</h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </aside>
+    )}
+
     <div class="mt-10 pt-6 border-t border-gray-100">
-      <a href="/tipy/" class="text-sky-600 hover:text-sky-700 font-medium transition-colors">
-        ← Wszystkie tipy
+      <a href={`/tipy/${tip.data.category}/`} class="text-sky-600 hover:text-sky-700 font-medium transition-colors mr-6">
+        ← {categoryLabels[tip.data.category] ?? 'Tipy'}
+      </a>
+      <a href="/tipy/" class="text-gray-500 hover:text-sky-700 font-medium transition-colors">
+        Wszystkie tipy
       </a>
     </div>
   </article>

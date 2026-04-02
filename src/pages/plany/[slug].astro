@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import AdSlot from '../../components/AdSlot.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdSenseSlot from '../../components/AdSenseSlot.astro';
 
@@ -14,11 +15,17 @@ export async function getStaticPaths() {
 const { plan } = Astro.props;
 const { Content } = await render(plan);
 
-const formattedDate = plan.data.pubDate.toLocaleDateString('pl-PL', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-});
+// Cross-collection links: blog top-10 for same destination + visa tipy
+const allBlog = await getCollection('blog', ({ data }) => !data.draft);
+const destLower = plan.data.destination.toLowerCase();
+const relatedBlog = allBlog
+  .filter((p) => p.slug.includes('top-10') && p.data.tags.some((t) => t.toLowerCase().includes(destLower)))
+  .slice(0, 2);
+
+const allTipy = await getCollection('tipy', ({ data }) => !data.draft);
+const relatedTipy = allTipy
+  .filter((t) => t.data.tags.some((tag) => tag.toLowerCase().includes(destLower)))
+  .slice(0, 2);
 
 const difficultyColors: Record<string, string> = {
   łatwy: 'bg-green-50 text-green-700 border-green-200',
@@ -91,6 +98,37 @@ const difficultyColors: Record<string, string> = {
     </div>
 
     <AdSenseSlot slotId="5234567892" />
+
+    <!-- Cross-collection related links -->
+    {(relatedBlog.length > 0 || relatedTipy.length > 0) && (
+      <aside class="mt-12 pt-8 border-t border-gray-100">
+        <h2 class="text-xl font-bold text-gray-900 mb-5">Przydatne informacje</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {relatedBlog.map((p) => (
+            <a href={`/blog/${p.slug}/`} class="group flex gap-3 bg-white rounded-xl border border-gray-100 p-4 hover:shadow-md transition-shadow">
+              {p.data.heroImage && (
+                <img src={p.data.heroImage} alt={p.data.title} class="w-16 h-16 rounded-lg object-cover flex-shrink-0" loading="lazy" width="64" height="64" />
+              )}
+              <div>
+                <span class="text-xs text-sky-600 font-medium uppercase tracking-wide">Top 10</span>
+                <h3 class="text-sm font-semibold text-gray-900 group-hover:text-sky-600 transition-colors leading-snug mt-1 line-clamp-2">{p.data.title}</h3>
+              </div>
+            </a>
+          ))}
+          {relatedTipy.map((t) => (
+            <a href={`/tipy/${t.slug}/`} class="group flex gap-3 bg-white rounded-xl border border-gray-100 p-4 hover:shadow-md transition-shadow">
+              {t.data.heroImage && (
+                <img src={t.data.heroImage} alt={t.data.title} class="w-16 h-16 rounded-lg object-cover flex-shrink-0" loading="lazy" width="64" height="64" />
+              )}
+              <div>
+                <span class="text-xs text-amber-600 font-medium uppercase tracking-wide">Tip</span>
+                <h3 class="text-sm font-semibold text-gray-900 group-hover:text-sky-600 transition-colors leading-snug mt-1 line-clamp-2">{t.data.title}</h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </aside>
+    )}
 
     <div class="mt-10 pt-6 border-t border-gray-100">
       <a href="/plany/" class="text-sky-600 hover:text-sky-700 font-medium transition-colors">

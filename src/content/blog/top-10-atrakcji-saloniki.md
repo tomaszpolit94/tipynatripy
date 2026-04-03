@@ -11,9 +11,6 @@ Saloniki to miasto, o którym Grecy mówią, że ma więcej duszy niż Ateny. Mn
 
 ## 1. Biała Wieża (Lefkos Pyrgos)
 
-![Biała Wieża w Salonikach — symbol miasta nad zatoką Termajską](https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80&auto=format&fit=crop)
-*Biała Wieża (XV w.) — symbol Salonik i obowiązkowy punkt na spacerze promenadą nadmorską*
-
 Symbol Salonik — osmaniska wieża z XV w. na nabrzeżu. Wewnątrz muzeum historii miasta. Widok z tarasu na Zatokę Termajską i (przy dobrej pogodzie) górę Olimp.
 
 Bilet ok. 4 EUR.

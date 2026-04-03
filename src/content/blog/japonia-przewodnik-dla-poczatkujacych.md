@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Japonia to kraj, który zmienia perspektywę. Niezależnie czy jesteś miłośnikiem anime, kultury zen, street foodu czy technologii — Japonia zaskoczy Cię na każdym kroku. A wbrew pozorom nie jest tak droga jak myślisz. Oto wszystko co musisz wiedzieć przed pierwszą wizytą.
 
-![Góra Fuji pokryta śniegiem odbita w jeziorze Kawaguchiko o świcie — wulkan na tle różowego nieba i tradycyjnej japońskiej architektury](https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=800&q=80&auto=format&fit=crop)
-*Fuji-san — 3776 m n.p.m., aktywny stratowulkan i symbol Japonii. Widoczny z Tokio w bezchmurny dzień*
-
 ## Kiedy jechać do Japonii
 
 Japonia ma cztery wyraźne sezony — i każdy ma swój urok, ale dwa są absolutnie wyjątkowe:

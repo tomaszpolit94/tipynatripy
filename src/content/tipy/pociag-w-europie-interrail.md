@@ -9,9 +9,6 @@ tags: ["pociąg", "Interrail", "nocny pociąg", "Europa", "kolej"]
 
 Pociąg w Europie to jeden z najpiękniejszych sposobów podróżowania — widoki przez okno, brak kolejek na lotnisku, dotarcie do centrum miasta. Przy rosnących cenach lotów kolej wraca do łask. Oto co musisz wiedzieć.
 
-![Pociąg TGV na stacji kolejowej w Europie — nowoczesny ekspres przy peronie z oświetlonym budynkiem stacji](https://images.unsplash.com/photo-1474487548417-781cb6d646ef?w=800&q=80&auto=format&fit=crop)
-*Kolej europejska — sieć 350 000 km torów łączy każdy zakątek kontynentu. Szybciej niż myślisz, taniej niż samolotem gdy doliczysz dojazd na lotnisko*
-
 ## Interrail — kiedy się opłaca?
 
 Interrail Global Pass to przepustka na nieograniczone przejazdy koleją przez 33 kraje Europy. Brzmi świetnie — ale nie zawsze jest opłacalny.

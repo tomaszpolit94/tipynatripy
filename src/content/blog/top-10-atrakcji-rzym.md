@@ -11,9 +11,6 @@ Rzym to jedno z tych miast, gdzie każdy bruk skrywa historię liczącą tysiąc
 
 ## 1. Koloseum i Forum Romanum
 
-![Koloseum w Rzymie — symbol starożytnego imperium](https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80&auto=format&fit=crop)
-*Koloseum (72–80 n.e.) — amfiteatr cesarzy na 80 000 widzów*
-
 Koloseum to symbol Rzymu i jeden z najpiękniejszych zabytków starożytności. Amfiteatr zbudowany w 72 roku n.e. mógł pomieścić nawet 80 000 widzów. Bilety warto kupić z wyprzedzeniem online — kolejki mogą być gigantyczne.
 
 Tuż obok leży Forum Romanum — serce starożytnego Rzymu. Świątynie, łuki triumfalne, brukowane drogi. Wstęp wliczony w cenę biletu do Koloseum.

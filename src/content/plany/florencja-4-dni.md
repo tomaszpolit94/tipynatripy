@@ -14,9 +14,6 @@ Florencja jest miastem-muzeum, w którym każda ulica kryje arcydzieło. Medyceu
 
 ## Dzień 1 — Katedra i Centrum
 
-![Florencja katedra Santa Maria del Fiore — kopuła Brunelleschiego i dzwonnica Giotta widziane z góry](https://images.unsplash.com/photo-1543429258-f0d72d93ce34?w=800&q=80&auto=format&fit=crop)
-*Duomo — katedra Santa Maria del Fiore z kopułą Brunelleschiego (1436). Największa ceglana kopuła na świecie. Na szczyt: 463 stopnie, widok na dachy Florencji*
-
 **Rano (8:30):** Duomo — katedra Santa Maria del Fiore z zewnątrz bezpłatna, wnętrze ok. 3 EUR. **Wejście na kopułę Brunelleschiego** (ok. 18 EUR w pakiecie) — rezerwacja obowiązkowa! 463 stopnie po spiralnych schodach wewnątrz kopuły.
 
 **10:30:** Battistero di San Giovanni — złote drzwi Ghibertiego ("Wrota Raju"), które Michał Anioł nazwał wrotami nieba. Ok. 5 EUR.

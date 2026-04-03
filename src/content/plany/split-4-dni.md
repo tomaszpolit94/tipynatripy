@@ -14,9 +14,6 @@ Split jest jedynym miastem na świecie, w którym ludzie mieszkają wewnątrz st
 
 ## Dzień 1 — Pałac Dioklecjana
 
-![Pałac Dioklecjana w Splicie — Perystyl, kolumnowy dziedziniec pałacu rzymskiego z widokiem na dzwonnicę katedry](https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&q=80&auto=format&fit=crop)
-*Perystyl — centralny dziedziniec Pałacu Dioklecjana (295–305 n.e.). Dziś kawiarnie pod kolumnami, wieczorem kino letnie. Za nim katedra — dawne mauzoleum cesarza*
-
 **Rano (9:00):** Pałac Dioklecjana — UNESCO, zbudowany 295–305 n.e. dla cesarza Dioklecjana. Spacer po murach, Perystyl (główny dziedziniec), Vestybul.
 
 **Katedra Świętego Dujma** (ok. 5 EUR, wejście na wieżę osobno) — dawne mauzoleum cesarza, potem kościół. Wejście na dzwonnicę: panorama miasta i wysp.

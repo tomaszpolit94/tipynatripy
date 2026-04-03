@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Santorini to wyspa-legenda — biało-niebieskie domy zawieszone nad kalderą wulkanu, zachody słońca w Oia, czarne plaże i wina z winorośli rosnących w popiołach wulkanicznych. To jedno z najbardziej fotografowanych miejsc na świecie. I mimo tłumów — absolutnie warte wizyty.
 
-![Santorini — białe domy z niebieskimi kopułami kościołów zawieszone na krawędzi kaldery wulkanu nad Morzem Egejskim](https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80&auto=format&fit=crop)
-*Santorini — jedna z Cykladów. Wyspa powstała z wybuchu wulkanu ok. 1600 p.n.e. Kaldera z wodą wewnątrz: 12×7 km*
-
 ## 1. Oia o zachodzie słońca — ikoniczny widok
 
 Oia (czytaj: Ija) to północny czubek Santorini i absolutne centrum fotograficznego kultu wyspy. Stąd pochodzi 90% zdjęć Santorini — białe wiatraki, niebieskie kopuły, zachód słońca nad kalderą.

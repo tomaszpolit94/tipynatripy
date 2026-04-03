@@ -12,9 +12,6 @@ tags: ["Nowy Jork", "LOT", "USA", "transatlantyk", "tanie loty"]
 
 LOT Polish Airlines regularnie oferuje promocje na bezpośrednim połączeniu Warszawa–Nowy Jork. Cena od 1 199 zł w obie strony to jeden z najtańszych bezpośrednich lotów z Polski do USA — z bagażem rejestrowanym w cenie.
 
-![Manhattan skyline — wieżowce Midtown Manhattan i rzeka Hudson o zmierzchu](https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&q=80&auto=format&fit=crop)
-*Nowy Jork — Times Square, Central Park, Brooklyn Bridge, MoMA. Lot bezpośredni z Warszawy: 10–11 godzin*
-
 ## Szczegóły oferty
 
 | | |

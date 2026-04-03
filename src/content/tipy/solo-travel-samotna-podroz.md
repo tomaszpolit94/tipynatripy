@@ -9,9 +9,6 @@ tags: ["solo travel", "samotna podróż", "backpacking", "bezpieczeństwo", "poz
 
 Podróż samotnie to jedna z najbardziej transformujących rzeczy jakie możesz zrobić dla siebie. Idziesz tam gdzie chcesz, kiedy chcesz. Nie kompromisujesz między "kulturalnym zwiedzaniem" a "leżeniem na plaży". Rozmawiasz z ludźmi z przypadku. Uczysz się być ze sobą. I wracasz kimś innym.
 
-![Samotny podróżnik z plecakiem na szczycie góry — sylwetka osoby patrzącej na rozległy górski krajobraz o wschodzie słońca](https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&q=80&auto=format&fit=crop)
-*Solo travel — pełna wolność i pełna odpowiedzialność. Jedna z najbardziej wartościowych życiowych decyzji*
-
 ## Dlaczego solo travel to najlepsza szkoła
 
 **Jesteś zmuszony do decyzji.** Nie ma nikogo kto powie "dobra, jedźmy tu". Wszystkie decyzje są Twoje — i uczysz się im ufać.

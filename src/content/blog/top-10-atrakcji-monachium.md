@@ -11,9 +11,6 @@ Monachium jest bogatym, eleganckim i zarazem swojskim miastem — połączenie r
 
 ## 1. Marienplatz i Nowy Ratusz
 
-![Marienplatz w Monachium — Neues Rathaus z Glockenspiel](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80&auto=format&fit=crop)
-*Marienplatz — serce Monachium. Nowy Ratusz z Glockenspiel grającym codziennie o 11:00 i 12:00 (latem też 17:00)*
-
 Centrum Monachium. Glockenspiel (kuranty) w Nowym Ratuszu: 43 dzwony, 32 figurki tańczące historię Bawarii. Codziennie o 11:00 i 12:00. Wieża ratuszowa (winda): ok. 4 EUR — panorama centrum.
 
 ## 2. Ogród Angielski (Englischer Garten)

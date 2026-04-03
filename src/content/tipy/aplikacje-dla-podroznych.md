@@ -9,9 +9,6 @@ tags: ["aplikacje podróżne", "Google Maps", "Skyscanner", "przydatne apki"]
 
 Smartfon zastąpił mapę, rozmówki, przewodnik i aparat fotograficzny w jednym urządzeniu. Ale tylko jeśli masz zainstalowane właściwe aplikacje. Oto zestawienie najlepszych apek dla podróżnych — po jednej lub dwóch w każdej kategorii, bez zbędnego listy-bullshit.
 
-![Smartfon z mapą GPS w dłoniach podróżnego na tle nieostrego miejskiego krajobrazu — nawigacja mobilna w podróży](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80&auto=format&fit=crop)
-*Smartfon to Twój główny narzędzie podróży. Właściwe apki to różnica między stresem a komfortem*
-
 ## Nawigacja i mapy
 
 ### Google Maps — nr 1, ale pobierz offline

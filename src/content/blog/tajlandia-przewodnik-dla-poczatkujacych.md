@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Tajlandia to jeden z najpopularniejszych celów podróży na świecie — i wciąż jeden z najlepszych. Starożytne świątynie, tropikalne wyspy ze szmaragdową wodą, jedna z najlepszych kuchni świata i infrastruktura turystyczna, która sprawi że czujesz się tu jak u siebie. Jednocześnie wystarczająco egzotyczna, żeby być przygodą.
 
-![Buddyjska świątynia Wat Pho w Bangkoku — złota pagoda z białymi wieżyczkami i kolorowe zdobienia z porcelany na niebieskim niebie](https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=80&auto=format&fit=crop)
-*Tajlandia — Kraina Uśmiechu. 70 mln mieszkańców, 40 mln turystów rocznie. Buddyzm, królewska dynastia Czakri, kuchnia uznana za jedną z najlepszych na świecie*
-
 ## Kiedy jechać do Tajlandii
 
 **Najlepszy sezon: listopad–luty.** Sucho, 28–33°C, bezchmurne niebo. To też szczyt turystyczny — rezerwuj noclegi i transport z wyprzedzeniem.

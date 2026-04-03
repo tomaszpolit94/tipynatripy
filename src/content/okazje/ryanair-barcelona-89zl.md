@@ -12,9 +12,6 @@ tags: ["Barcelona", "Ryanair", "Hiszpania", "tanie loty"]
 
 Ryanair wypuścił bardzo dobre ceny na loty z Warszawy Modlin do Barcelony El Prat. Dostępne terminy obejmują głównie środy i czwartki w maju i czerwcu 2026 — omijają szczyty weekendowe.
 
-![Gaudi's Sagrada Família — wieże bazyliki na tle błękitnego nieba barcelońskiego](https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&q=80&auto=format&fit=crop)
-*Barcelona — Sagrada Família, Barceloneta, Gràcia. Jeden z najlepszych kierunków weekendowych z Polski*
-
 ## Szczegóły oferty
 
 | | |

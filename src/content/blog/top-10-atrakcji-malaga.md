@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Malaga to coraz częściej wybierany cel sam w sobie — nie tylko tranzyt do Costa del Sol. Dynamiczne miasto z piękną starówką, muzeum Picassa (tu się urodził), mauretańską twierdzą i świetną sceną kulinarną. Do tego Caminito del Rey, białe wioski Axarquía i najdłuższe plaże Europy w zasięgu autobusu.
 
-![Stare miasto Malagi z mauretańską twierdzą Alcazaba na wzgórzu i widokiem na port i Morze Śródziemne w tle](https://images.unsplash.com/photo-1563241527-3004b7be0b70?w=800&q=80&auto=format&fit=crop)
-*Malaga — miasto Picassa, mauretańska Alcazaba i gateway do Costa del Sol. 300 dni słońca w roku*
-
 ## 1. Alcazaba i Zamek Gibralfaro
 
 **Alcazaba** to mauretańska twierdza zbudowana w XI w. przez taifę Malagi — jeden z najlepiej zachowanych mauretańskich zamków w Andaluzji. Zwiedzanie przez bramy otoczone ogrodami, z widokiem na miasto i port.

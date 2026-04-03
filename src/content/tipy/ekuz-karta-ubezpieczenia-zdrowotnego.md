@@ -9,9 +9,6 @@ tags: ["EKUZ", "ubezpieczenie zdrowotne", "NFZ", "Europa", "zdrowie za granicą"
 
 EKUZ to bezpłatna karta, która gwarantuje Ci dostęp do opieki zdrowotnej w krajach UE, EOG i Szwajcarii — na takich samych warunkach jak miejscowym mieszkańcom. To podstawowe zabezpieczenie dla każdego podróżnego po Europie.
 
-![Niebieska karta EKUZ — europejska karta ubezpieczenia zdrowotnego z flagą UE i danymi osobowymi](https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80&auto=format&fit=crop)
-*EKUZ — wyrabiasz raz, ważna zazwyczaj rok lub dłużej. Trzymaj w portfelu razem z dowodem osobistym*
-
 ## Czym jest EKUZ
 
 **Europejska Karta Ubezpieczenia Zdrowotnego** — dokument potwierdzający, że jako ubezpieczony w polskim NFZ masz prawo do korzystania z publicznej opieki zdrowotnej w:

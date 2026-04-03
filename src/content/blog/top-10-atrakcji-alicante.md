@@ -11,9 +11,6 @@ Alicante jest często postrzegana jako miasto tranzytowe — lotnisko przed Beni
 
 ## 1. Zamek Świętej Barbary (Castillo de Santa Bárbara)
 
-![Zamek Świętej Barbary na skale nad Alicante](https://images.unsplash.com/photo-1566408669374-6b3b3943f07a?w=800&q=80&auto=format&fit=crop)
-*Zamek Świętej Barbary — arabska twierdza z panoramą Alicante i morza*
-
 Arabska twierdza z X w. wznosi się 166 m n.p.m. nad miastem. Trzy poziomy zamku z bastionami, salami i podziemnymi korytarzami. Widok na morze, miasto i Costa Blanca to jeden z najpiękniejszych w Hiszpanii.
 
 Wstęp wolny. Wjedź windą ze skały od strony Postiguet (ok. 3 EUR) lub idź pieszo (ok. 20 minut).

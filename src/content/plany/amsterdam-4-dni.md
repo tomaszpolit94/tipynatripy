@@ -14,9 +14,6 @@ Amsterdam jest miastem, gdzie kanały zastępują ulice, rowery zastępują samo
 
 ## Dzień 1 — Stary Centrum i Kanały
 
-![Kanały Amsterdamu przy zachodzie słońca — kamienice i łodzie przy Prinsengracht](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Amsterdam — 165 kanałów, 1500 mostów. Prinsengracht, Keizersgracht, Herengracht — trzy pierścieniowe kanały UNESCO*
-
 **Rano (9:00):** Wynajmij rower od razu — MacBike lub Starbike (ok. 12–15 EUR/dzień). Jedź przez Jordaan — najbardziej klimatyczna dzielnica, brukowane uliczki, kanały, niezależne kafejki.
 
 **Południe:** Rynek Noordermarkt (pon: ekologiczne jedzenie, sob: staroci). Lunch w jednej z kafejek przy kanale — Dutch broodje (kanapka) ok. 7–10 EUR lub haring (śledź) w stoisku: ok. 3,50 EUR.

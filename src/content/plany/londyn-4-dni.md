@@ -14,9 +14,6 @@ Londyn jest ogromny, ale opanować go na 4 dni — da się. Sekret to priorytety
 
 ## Dzień 1 — Serce Londynu
 
-![Tower Bridge i Tamiza o wschodzie słońca — Londyn](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80&auto=format&fit=crop)
-*Tower Bridge (1894) — najfotograficzniejszy most świata. Przejście przez most: bezpłatne, wejście do wieży: ok. 12 GBP*
-
 **Rano (9:00):** Tower of London — 1000 lat historii: Korowaciowe Klejnoty, Kruk, Yeoman Warders. Zarezerwuj online (ok. 30 GBP). Następnie spacer przez Tower Bridge i widok na Tamizę.
 
 **Południe:** Borough Market — najsłynniejszy targ kulinarny Londynu. Próbuj wszystkiego: ser Montgomery Cheddar, ostrygi, street food ze świata. Lunch: ok. 10–15 GBP.

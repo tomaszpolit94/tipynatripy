@@ -12,9 +12,6 @@ tags: ["Rzym", "Ryanair", "Włochy", "tanie loty"]
 
 Ryanair z Krakowa Balice do Rzymu Ciampino — 2h 30min lotu, od 109 zł w jedną stronę. To jedna z najbardziej dostępnych cenowo tras na Włochy z południa Polski.
 
-![Koloseum w Rzymie — starożytny amfiteatr w blasku zachodzącego słońca z turystami u podnóża](https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80&auto=format&fit=crop)
-*Rzym — Koloseum, Watykan, Trevi Fountain, Campo de' Fiori. Wieczne Miasto — minimum 3–4 dni*
-
 ## Szczegóły oferty
 
 | | |

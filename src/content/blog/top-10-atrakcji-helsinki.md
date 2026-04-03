@@ -11,9 +11,6 @@ Helsinki to miasto kameralne — zaledwie 650 000 mieszkańców i wszystko w zas
 
 ## 1. Katedra na Skale (Temppeliaukio kirkko)
 
-![Katedra na Skale w Helsinkach — kościół wykuty w granicie z miedzianą kopułą](https://images.unsplash.com/photo-1558642084-fd07fae5282e?w=800&q=80&auto=format&fit=crop)
-*Temppeliaukio kirkko (1969) — kościół wykuty bezpośrednio w granicie. Akustyka tak doskonała, że przez dekady służył jako sala koncertowa*
-
 Kościół wykuty bezpośrednio w granitowej skale z miedzianą kopułą. Jeden z najoryginalniejszych kościołów na świecie. Akustyka idealna — regularne koncerty. Wnętrze zaskakuje: ciepłe, skalne, naturalne.
 
 Bilet ok. 3 EUR.

@@ -9,9 +9,6 @@ tags: ["lotnisko", "transfer", "taxi", "metro", "Uber"]
 
 Dotarcie na lotnisko to pierwsza i ostatnia część każdej podróży — i często najbardziej stresująca. Spóźnienie na odprawę z powodu korku kosztuje bilet. Oto jak to zorganizować mądrze.
 
-![Terminal lotniczy z tablicami odlotów i podróżnikami z walizkami spieszącymi na wylot](https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=800&q=80&auto=format&fit=crop)
-*Terminal — kiedy dotrzesz zależy od tego jak zaplanujesz dojazd. Zawsze licz z zapasem czasu*
-
 ## Z polskich miast na lotniska
 
 ### Warszawa Okęcie (WAW)

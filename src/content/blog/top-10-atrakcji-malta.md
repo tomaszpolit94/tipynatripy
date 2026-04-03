@@ -11,9 +11,6 @@ Malta jest mała — ok. 27 km długości i 14 km szerokości. Ale to co kryją 
 
 ## 1. Valletta — stolica pełna charakteru
 
-![Valletta — barokowa stolica Malty z widokiem na Grand Harbour](https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80&auto=format&fit=crop)
-*Valletta — najmniejsza stolica UE i jedno z najpiękniejszych barokowych miast Europy*
-
 Najmniejsza stolica UE i jedna z najpiękniejszych. Uliczka Republic Street ciągnie się przez całe miasto. Katedra Świętego Jana z malowidłami Caravaggia to absolutny cud.
 
 Wstęp do katedry ok. 15 EUR. Reszta Valletty — za darmo.

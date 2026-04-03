@@ -14,9 +14,6 @@ Dubrownik jest jednym z najbardziej fotogenicznych miast Europy — ale latem te
 
 ## Dzień 1 — Mury Starego Miasta
 
-![Mury Dubrownika o wschodzie słońca — widok na Stare Miasto i Adriatyk](https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&q=80&auto=format&fit=crop)
-*Mury Dubrownika (XIII–XVII w.) — 1940 metrów spaceru dookoła Starego Miasta z widokiem na krystalicznie błękitny Adriatyk*
-
 **Wczesny ranek (7:30):** Mury Dubrownika — kup bilet od razu po otwarciu (ok. 35 EUR). Obejdź całe 2 km w około 2 godziny. Rano: brak tłumów, najlepsze światło do zdjęć, chłodniej.
 
 **Południe:** Stradun (główna ulica Starego Miasta) — fontanna Onofrio, kościół Franciszkanów z apteką z XIV w. (jedna z najstarszych w Europie!). Lunch w jednej z lokanta przy Prijeko: grillowane morskie ryby ok. 20–40 EUR.

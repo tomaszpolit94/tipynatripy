@@ -14,9 +14,6 @@ Mediolan jest miastem pracy, mody i pieniędzy — i dlatego wielu turystów go 
 
 ## Dzień 1 — Duomo i Centrum
 
-![Katedra Duomo di Milano — las gotyckich iglic z białego marmuru w centrum Mediolanu](https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800&q=80&auto=format&fit=crop)
-*Duomo di Milano — 135 iglic, 3400 posągów, 600 lat budowy (1386–1965). Na dach: windy lub schody. Panorama Mediolanu i Alp*
-
 **Rano (9:00):** Katedra Duomo (wnętrze ok. 4 EUR, dach ok. 14 EUR windą lub 8 EUR schodami) — 135 iglic, 3400 statui. Na dachu: widok na Alpy w czyste dni!
 
 **Południe:** Galleria Vittorio Emanuele II — kryte centrum handlowe z 1877 roku, najstarsza i najelegantsze galeria Europy. Kawiarni Zucca (tutaj wynaleziono Campari). Lunch — risotto alla Milanese (z szafranem) w pobliskiej restauracji: ok. 15–20 EUR.

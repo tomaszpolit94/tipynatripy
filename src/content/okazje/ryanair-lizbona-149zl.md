@@ -12,9 +12,6 @@ tags: ["Lizbona", "Ryanair", "Portugalia", "tanie loty"]
 
 Lizbona za 149 zł z Warszawy Modlin — to naprawdę dobra cena. Ryanair obsługuje tę trasę bezpośrednio, czas lotu to nieco ponad 3 godziny. Dostępne terminy na wiosnę i wczesne lato 2026.
 
-![Lizbona — kolorowe kamienice na wzgórzach Alfamy z panoramą miasta i rzeką Tag w tle](https://images.unsplash.com/photo-1558370781-d6196591e1f5?w=800&q=80&auto=format&fit=crop)
-*Lizbona — Alfama, Belém, Pastéis de Nata, tramwaj 28. Jedno z najpiękniejszych miast Europy*
-
 ## Szczegóły oferty
 
 | | |

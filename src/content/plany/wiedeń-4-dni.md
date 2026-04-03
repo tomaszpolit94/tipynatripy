@@ -14,9 +14,6 @@ Wiedeń jest miastem, gdzie elegancja jest normą i kawiarnia może być dziedzi
 
 ## Dzień 1 — Hofburg i Centrum
 
-![Pałac Hofburg w Wiedniu — zimowa rezydencja Habsburgów w centrum miasta](https://images.unsplash.com/photo-1549996944-f98cf8792e2a?w=800&q=80&auto=format&fit=crop)
-*Hofburg — kompleks pałacowy w centrum Wiednia. Muzeum Sisi, Apartamenty Cesarskie, Skarbiec — zaplanuj cały dzień*
-
 **Rano (9:00):** Hofburg — Muzeum Sisi + Apartamenty Cesarskie + Skarbiec (bilet kombinowany ok. 28 EUR). Korona Świętego Cesarstwa Rzymskiego w Skarbcu — ponad 1000 lat historii w jednym pomieszczeniu.
 
 **Południe:** Stephansdom — gotycka katedra w centrum. Wieżę nord (winda, ok. 6 EUR) — widok na Ringstrasse i centrum. Katakumby (ok. 6 EUR) — 11 000 kości ofiar dżumy pod katedrą.

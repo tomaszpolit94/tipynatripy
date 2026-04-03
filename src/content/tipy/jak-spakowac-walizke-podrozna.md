@@ -9,9 +9,6 @@ tags: ["pakowanie", "walizka", "bagaż podręczny", "lista pakowania"]
 
 Umiejętność pakowania to jedna z najcenniejszych podróżniczych umiejętności. Dobrze spakowana walizka kabinowa na tydzień — bez dopłat za bagaż, bez szukania rzeczy w środku lotu.
 
-![Otwarta walizka wypełniona starannie złożonymi ubraniami i akcesoriami podróżnymi na drewnianej podłodze](https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=800&q=80&auto=format&fit=crop)
-*Walizka kabinowa 55×40×20 cm — wystarczy na tydzień przy odpowiedniej strategii pakowania*
-
 ## Kompletna lista pakowania
 
 ### Dokumenty i finanse

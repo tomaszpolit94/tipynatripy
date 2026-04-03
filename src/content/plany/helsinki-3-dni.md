@@ -14,9 +14,6 @@ Helsinki są najmniej odwiedzaną z nordyckich stolic — i przez to najbardziej
 
 ## Dzień 1 — Centrum i Katedra
 
-![Helsinki Plac Senacki z Katedrą — biała luterańska katedra z zieloną kopułą i szerokie schody, widok zimą z śniegiem](https://images.unsplash.com/photo-1559308870-d5a1e3a63de0?w=800&q=80&auto=format&fit=crop)
-*Katedra Helsinek (Tuomiokirkko) na Placu Senackim — neogotyk z 1852 r., symbol miasta. Na schodach spotykają się studenci i turyści. Za nią: Plac Rynkowy i port*
-
 **Rano (9:30):** Tuomiokirkko — biała luterańska katedra (1852) z zieloną kopułą nad Placem Senackim. Bezpłatny wstęp, bezpłatny widok z placu.
 
 **10:00:** Uspensky Cathedral — rosyjska prawosławna katedra (1868) na wzgórzu. Widok na port i Rynek. Bezpłatna.

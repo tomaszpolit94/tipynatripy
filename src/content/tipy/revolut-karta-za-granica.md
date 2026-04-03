@@ -9,9 +9,6 @@ tags: ["Revolut", "karta wielowalutowa", "finanse", "przewalutowanie", "bankomat
 
 Revolut stał się standardem wśród podróżujących Polaków — i słusznie. Przy kursach walut bliskich rynkowym i braku opłat za transakcje kartą w walutach obcych to jedno z najlepszych narzędzi finansowych na wyjazd.
 
-![Niebieski smartfon z aplikacją bankową i karta płatnicza obok na białym tle — fintech wizualizacja](https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80&auto=format&fit=crop)
-*Revolut — kurs przewalutowania bez marży (w dni robocze), brak opłat za płatności kartą za granicą. Standard dla podróżnych*
-
 ## Dlaczego Revolut zamiast zwykłej karty
 
 Kiedy płacisz zwykłą kartą za granicą, Twój bank dodaje **marżę walutową 2–5%**. Przy tygodniowym urlopie za 3 000 zł wydatków to 60–150 zł ukrytych opłat.

@@ -8,9 +8,6 @@ tags: ["loty z Warszawy", "Okęcie", "Modlin", "Ryanair", "LOT", "tanie loty"]
 
 Warszawa ma dwa lotniska — i to jest zarówno szansa, jak i pułapka. Okęcie (WAW) obsługuje LOT, Lufthansa, KLM i inne duże linie, Modlin (WMI) to baza Ryanaira. Oto jak wycisnąć maksimum z obu.
 
-![Terminal lotniska Chopina w Warszawie — nowoczesny terminal z podróżnymi i tablicami odlotów](https://images.unsplash.com/photo-1474524955719-b9f87c50ce47?w=800&q=80&auto=format&fit=crop)
-*Lotnisko Chopina (WAW) — największy port lotniczy w Polsce. 20 minut SKM od centrum, 19 mln pasażerów rocznie*
-
 ## Okęcie (WAW) vs Modlin (WMI) — kiedy które?
 
 | | WAW Okęcie | WMI Modlin |

@@ -14,9 +14,6 @@ Kopenhaga jest miastem, gdzie szczęście jest filozofią życiową. Rowery, hyg
 
 ## Dzień 1 — Nyhavn i Strøget
 
-![Nyhavn w Kopenhadze o zachodzie słońca — kolorowe kamienice i historyczne żaglówki](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80&auto=format&fit=crop)
-*Nyhavn (Nowy Port) — XVII-wieczny kanał z kolorowymi kamienicami, kawiarniami i historycznymi łódkami*
-
 **Rano (9:00):** Nyhavn — pocztówkowy widok Kopenhagi. Hans Christian Andersen mieszkał tu. Kawiarnie otwierają o 8:00. Kawa i wienebrød (duński rogalik maślany): ok. 5 EUR.
 
 **Południe:** Kongens Nytorv — Plac Królewski z barokowym zamkiem Charlottenborg. Deptakiem Strøget do centrum.

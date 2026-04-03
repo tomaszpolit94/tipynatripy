@@ -11,9 +11,6 @@ Reykjavik ma zaledwie 130 000 mieszkańców, ale jest bramą do jednego z najbar
 
 ## 1. Zorza Polarna (Aurora Borealis)
 
-![Zorza polarna nad Islandią — zielone fale światła nad czarną plażą lub miastem](https://images.unsplash.com/photo-1507090960745-b32f65d3b7c6?w=800&q=80&auto=format&fit=crop)
-*Zorza Polarna — wrzesień–marzec to sezon. Aplikacja Aurora Forecast. Wyjedź poza miasto dla ciemnego nieba*
-
 Nie atrakcja, ale cel sam w sobie. Sezon: wrzesień–marzec (potrzebujesz ciemności). Aplikacja Aurora Forecast (3 i więcej na skali KP). Wyjedź 30 km od centrum dla ciemnego nieba — albo zorganizuj wycieczkę jeepem.
 
 Nieprzewidywalne — ale niezapomniane.

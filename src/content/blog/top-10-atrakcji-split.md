@@ -11,9 +11,6 @@ Split to fenomen urbanistyczny — 1700-letni pałac rzymski, w którym wciąż 
 
 ## 1. Pałac Dioklecjana (UNESCO)
 
-![Pałac Dioklecjana w Splicie — żyjąca starożytna budowla wpisana na listę UNESCO](https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80&auto=format&fit=crop)
-*Pałac Dioklecjana (ok. 305 n.e.) — starożytny pałac, w którym wciąż mieszka kilka tysięcy osób. UNESCO*
-
 Cesarz Dioklecjan wybudował go jako swoją emeryturę. Dziś to całe stare miasto — kawiarnie, sklepiki, galerie i mieszkania w obrębie starożytnych murów. Piwnice (Vestibul, krypty) — jedyny biletowany odcinek: ok. 10 EUR.
 
 Spacer po Peristyle (centralny plac) — bezpłatny.

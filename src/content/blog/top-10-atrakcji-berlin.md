@@ -11,9 +11,6 @@ Berlin jest inny niż wszystkie europejskie stolice. Nie ma tu barokowych bulwar
 
 ## 1. Brama Brandenburska (Brandenburger Tor)
 
-![Brama Brandenburska w Berlinie — symbol jedności Niemiec](https://images.unsplash.com/photo-1560969184-10fe8719e047?w=800&q=80&auto=format&fit=crop)
-*Brama Brandenburska (1791) — symbol podziału i ponownego zjednoczenia Niemiec. Obowiązkowy punkt w Berlinie*
-
 Symbol Berlina i zjednoczenia Niemiec. Zbudowana w 1791 jako brama triumfalna, przez 28 lat stała w strefie niczyjej między Wschodnim a Zachodnim Berlinem. Dziś — centrum turystyczne i miejsce demonstracji.
 
 Wstęp wolny.

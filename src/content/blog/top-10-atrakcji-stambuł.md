@@ -11,9 +11,6 @@ Stambuł jest jedynym miastem na świecie leżącym na dwóch kontynentach. Pona
 
 ## 1. Hagia Sophia (Ayasofya)
 
-![Hagia Sophia w Stambule — dawny kościół, potem meczet, potem muzeum, teraz ponownie meczet](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Hagia Sophia (537 n.e.) — arcydzieło architektury byzantyjskiej. Przez 900 lat największy kościół chrześcijański. Dziś czynny meczet*
-
 Zbudowana w 537 roku jako największy kościół chrześcijański na świecie. Po podboju osmańskim zamieniona na meczet. Przez XX wiek muzeum. Teraz ponownie czynny meczet. Mozaiki chrześcijańskie zasłaniane podczas modlitw.
 
 Wstęp bezpłatny (kobiety muszą mieć zakrytą głowę). Kolejki długie — idź rano.

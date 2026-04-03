@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Gruzja to najbardziej niedoceniony kraj Europy — i najszybciej zyskujący popularność. Kraj na Kaukazie, między Europą a Azją, między prawosławiem a islamem, między sowieckimi blokami a średniowiecznymi wieżami. Tu leży jeden z najstarszych winnic świata (8000 lat!), jedna z najpiękniejszych kuchni Kaukazu i gościnność, która stała się przysłowiowa. I jest absurdalnie tanie.
 
-![Tbilisi — panorama starego miasta z kolorowymi balkonami, kościołem Metekhi i zamkiem Narikala na wzgórzu nad rzeką Kura](https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=800&q=80&auto=format&fit=crop)
-*Tbilisi — 1600-letnia stolica Gruzji. Stare miasto z drewnianymi balkonami, łaźniami siarkowymi i winem za 3 EUR za butelkę*
-
 ## Dlaczego Gruzja właśnie teraz
 
 Gruzja jest na progu turystycznego boomu — infrastruktura szybko się poprawia, loty się mnożą, ale jeszcze nie jest "przepłacona" jak Europa Zachodnia. To moment gdy ceny są wciąż niskie, a komfort już wysoki.

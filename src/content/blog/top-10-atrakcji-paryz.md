@@ -11,9 +11,6 @@ Paryż. Samo słowo wywołuje obrazy: kawiarnie przy bulwarach, sierpień pachn�
 
 ## 1. Wieża Eiffla
 
-![Wieża Eiffla w Paryżu — symbol Francji i Miasta Świateł](https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80&auto=format&fit=crop)
-*Wieża Eiffla (1889) — 330 metrów żelastwa, które skradło serca milionów*
-
 Symbol Paryża i całej Francji. W dzień piękna, w nocy — magiczna. Co godzinę przez 5 minut migocze tysiącami świateł (do 1:00 w nocy).
 
 **Wskazówka:** Kup bilet online z wyprzedzeniem (ok. 30 EUR na szczyt). Dla oszczędnych: bilety do drugiego piętra są tańsze, a widok prawie równie imponujący. Albo po prostu podziwiaj z Champ de Mars za darmo.

@@ -11,9 +11,6 @@ Budapeszt to miasto podwójne — dosłownie. Buda po lewej brzegu Dunaju (wzgó
 
 ## 1. Parlament Węgierski (Országház)
 
-![Parlament Węgierski nocą nad brzegiem Dunaju](https://images.unsplash.com/photo-1565099824688-0b46a0b72952?w=800&q=80&auto=format&fit=crop)
-*Parlament Węgierski — jeden z najpiękniejszych budynków na świecie*
-
 Neogotycki gmach z 1904 roku to jeden z najpiękniejszych budynków na Ziemi. 691 pomieszczeń, 27 bram wejściowych, kopuła 96 metrów — i wszystko w kolorze kremowo-czerwonym, idealnie odbijające się w Dunaju.
 
 Wycieczka wewnętrzna (niezbędna): ok. 8 EUR dla obywateli UE. Kup bilet online — jest bardzo popularne. Widok z nabrzeża wieczorami to jeden z najpiękniejszych w całej Europie — bezpłatny.

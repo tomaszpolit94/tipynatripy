@@ -14,9 +14,6 @@ Ateny to nie tylko Akropol — choć jest on niesamowity. To miasto żywe, chaot
 
 ## Dzień 1 — Akropol i Agora
 
-![Akropol i Partenon o wschodzie słońca — zanim tłumy turystów wejdą](https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80&auto=format&fit=crop)
-*Akropol o wschodzie słońca — przybądź przed 8:00. Po 10:00 tłumy są nieznośne, upał po południu zabójczy*
-
 **Bardzo wczesny ranek (7:30):** Akropol — wejdź zaraz po otwarciu (ok. 20 EUR, w sezonie). Partenon, Erechtejon (kariatydy), Propyleje, Świątynia Nike. Widok na Ateny, Pireus i Morze Egejskie.
 
 **Rano:** Nowe Muzeum Akropolu (ok. 10 EUR) u podnóża wzgórza — oryginalne fryzy, sala Partenonu ze szklanym sufitem z widokiem na wzgórze. Rewelacyjna architektura.

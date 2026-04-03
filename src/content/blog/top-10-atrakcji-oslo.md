@@ -11,9 +11,6 @@ Oslo jest małe (ok. 700 000 mieszkańców), ale otoczone lasami i fiordami w ta
 
 ## 1. Park Vigeland (Frognerparken)
 
-![Park Vigeland w Oslo — 212 rzeźb Gustava Vigelanda w granitowym parku](https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&q=80&auto=format&fit=crop)
-*Park Vigeland — 212 rzeźb z granitu, brązu i żelaza kutego. Monolitt: 14 m kolumna z 121 przeplatającymi się ludzkimi ciałami*
-
 Największy na świecie park rzeźbarski jednego artysty — Gustav Vigeland, 212 rzeźb pokazujących ludzkie życie: narodziny, miłość, starość, śmierć. Monolitt (14m kolumna z 121 ciał) robi wrażenie.
 
 Wstęp bezpłatny.

@@ -11,9 +11,6 @@ Amsterdam jest miastem rowerów, kanałów i Rembrandta. Ale też Anny Frank, ge
 
 ## 1. Rijksmuseum
 
-![Rijksmuseum w Amsterdamie — Straż Nocna Rembrandta i holenderskie złote malarstwo](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Rijksmuseum — Straż Nocna Rembrandta, Mleczarka Vermeera, 8000 dzieł Holenderskiego Złotego Wieku*
-
 Holenderski Złoty Wiek w jednym budynku. Straż Nocna Rembrandta (3,8 m × 4,5 m — kolosalna), Mleczarka Vermeera, Frans Hals. 8000 dzieł w ekspozycji.
 
 Bilet ok. 22,50 EUR. Rezerwuj online — kolejki ogromne.

@@ -11,9 +11,6 @@ Ateny to miasto z ponad 3000-letnią historią, które wciąż żyje pełnią ż
 
 ## 1. Akropol i Partenon
 
-![Akropol w Atenach — Partenon i starożytne wzgórze ponad miastem](https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80&auto=format&fit=crop)
-*Akropol (V w. p.n.e.) — najważniejszy zabytek starożytnej Grecji i jeden z symboli zachodniej cywilizacji*
-
 Każda fotografía Aten jest fotografią Akropolu. Partenon (447 p.n.e.) — świątynia Ateny, w której widzisz architekt doskonałości. Propyleje, Erechtejon (kariatydy), świątynia Nike.
 
 Bilet ok. 20 EUR (w sezonie) — wliczone inne stanowiska. Idź rano (przed 9:00) lub wieczorem. Letnie południe jest nieznośne.

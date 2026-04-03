@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Chorwacja to jeden z najpopularniejszych kierunków wakacyjnych dla Polaków — i nie bez powodu. 1800 km wybrzeża, 1200 wysp i wysepek, niemal 1800 godzin słońca rocznie, woda przejrzysta jak szkło i kuchnia, która łączy najlepsze z Morza Śródziemnego. Do tego względnie niedrogo (w europejskich realiach) i blisko — 1200 km autem z Krakowa.
 
-![Chorwackie wybrzeże Adriatyku — lazurowa woda, skaliste klify i sosnowe lasy na wyspie Hvar z żaglówkami na kotwicy w zatoce](https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80&auto=format&fit=crop)
-*Chorwacja — 1200 wysp, lazurowy Adriatyk i 2800 godzin słońca rocznie. Jedno z najpiękniejszych wybrzeży Europy*
-
 ## Dubrownik — "Perła Adriatyku"
 
 Dubrownik to jedno z najpiękniejszych miast w Europie — historyczne centrum wpisane na listę UNESCO, otoczone monumentalnymi murami (XIV w.), z marmurowymi uliczkami i widokiem na Adriatyk. Kręcono tu Grę o Tron (King's Landing) — dziś miasto wciąż żyje tym dziedzictwem.

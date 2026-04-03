@@ -12,9 +12,6 @@ tags: ["Chicago", "LOT", "USA", "transatlantyk", "tanie loty"]
 
 LOT Polish Airlines lata bezpośrednio z Warszawy do Chicago O'Hare — to idealne połączenie dla Polaków odwiedzających Polonię chicagowską lub po prostu zwiedzających to wyjątkowe miasto architektury.
 
-![Centrum Chicago — wieżowce nad jeziorem Michigan, widok na skyline miasta od strony wody](https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80&auto=format&fit=crop)
-*Chicago — Millennium Park, Navy Pier, Art Institute of Chicago, polska dzielnica Jackowo. Trzecie miasto USA*
-
 ## Szczegóły oferty
 
 | | |

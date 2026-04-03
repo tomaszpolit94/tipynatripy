@@ -9,9 +9,6 @@ tags: ["finanse", "gotówka", "karta za granicą", "przewalutowanie", "waluta"]
 
 Karta czy gotówka? Odpowiedź brzmi: **oboje, ale w odpowiednich proporcjach**. Oto jak zarządzać pieniędzmi za granicą bez tracenia na kursach i opłatach.
 
-![Różne banknoty Euro, dolary i monety rozłożone na mapie — symbole podróży i finansów](https://images.unsplash.com/photo-1580519542036-c47de6196ba5?w=800&q=80&auto=format&fit=crop)
-*Gotówka jest potrzebna, ale karta wielowalutowa to Twój główny instrument finansowy za granicą*
-
 ## Zasada podstawowa
 
 **Karta:** 80% wydatków — restauracje, sklepy, hotele, transport

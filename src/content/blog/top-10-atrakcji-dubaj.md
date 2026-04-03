@@ -11,9 +11,6 @@ Dubaj to miasto, które istnieje dopiero od lat 60. XX w. — a w tym czasie zbu
 
 ## 1. Burj Khalifa — najwyższy budynek świata
 
-![Burj Khalifa — najwyższy budynek świata w Dubaju](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Burj Khalifa (828 m) — architektoniczny cud XXI wieku*
-
 828 metrów, 163 piętra, widoczność 95 km. At the Top (poziom 124 i 125) — wstęp od ok. 150 AED (ok. 170 zł). At the Top Sky (poziom 148, ekskluzywna platforma) — od ok. 500 AED.
 
 **Wskazówka:** Kup bilet online z wyprzedzeniem — taniej i bez kolejki. Wieczorny slot (po zachodzie słońca) jest droższy, ale widok na podświetlone miasto jest spektakularny.

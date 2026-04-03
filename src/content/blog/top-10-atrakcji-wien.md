@@ -11,9 +11,6 @@ Wiedeń jest klasy sam w sobie. Cesarskie pałace, światowej klasy muzea, kawia
 
 ## 1. Pałac Schönbrunn
 
-![Pałac Schönbrunn w Wiedniu — letnia rezydencja Habsburgów z ogrodem i Gloriette](https://images.unsplash.com/photo-1549996944-f98cf8792e2a?w=800&q=80&auto=format&fit=crop)
-*Pałac Schönbrunn — 1441 pokoi, ogrody formalne i Gloriette na wzgórzu. Letnia rezydencja cesarzy Habsburgów*
-
 Letnia rezydencja Habsburgów — 1441 pokoi, ogrody formalne à la Wersal, i Gloriette na wzgórzu (panorama Wiednia). Mała Galeria i Sala Lustrzana — tu Mozart grał dla cesarzowej jako 6-latek.
 
 Bilet "Grand Tour" (40 pokoi): ok. 26 EUR. Ogrody: bezpłatne.

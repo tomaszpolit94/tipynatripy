@@ -14,9 +14,6 @@ Islandia to planeta na planecie. W ciągu jednego dnia możesz zobaczyć gejzer,
 
 ## Dzień 1 — Blue Lagoon i Reykjavik
 
-![Blue Lagoon na Islandii — lazurowe wody geotermalne 40 km od Reykjaviku](https://images.unsplash.com/photo-1507090960745-b32f65d3b7c6?w=800&q=80&auto=format&fit=crop)
-*Blue Lagoon — geotermalne baseny przy lotnisku Keflavik. 37–39°C, biała krzemionka, siarczysty zapach i surowy krajobraz lawy*
-
 **Przylot przez Keflavik:** Nie jedź od razu do Reykjaviku — Blue Lagoon jest 20 min od lotniska!
 
 Zostaw bagaż w przechowalni na recepcji Blue Lagoon (gratis). Zanurz się w gorącym, lazurowym basenie (ok. 70–100 EUR, zarezerwuj ONLINE przed wylotem!). Maska z białą krzemionką, barek w wodzie z napojami.

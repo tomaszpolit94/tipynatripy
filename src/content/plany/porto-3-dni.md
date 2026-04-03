@@ -14,9 +14,6 @@ Porto jest autentyczniejsze i tańsze od Lizbony. Miasto budowane na wzgórzach 
 
 ## Dzień 1 — Ribeira i Most Dom Luís
 
-![Ribeira i Most Dom Luís I nad rzeką Douro w Porto](https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80&auto=format&fit=crop)
-*Ribeira (UNESCO) — brukowane nabrzeże Douro z kolorowymi kamienicami. Most Dom Luís I łączy oba brzegi*
-
 **Rano (9:30):** Ribeira — spacer wzdłuż nabrzeża. Catedral Sé (wstęp wolny, loggia ok. 3 EUR) — stoi nad Porto od XII w. Widok z Terreiro da Sé na miasto i rzekę.
 
 **Południe:** Most Dom Luís I — dolny poziom pieszo, górny przez metro (lub pieszo!) — widok na Douro i winiarnie Gaiy. Lunch w tascas przy Rua dos Mercadores — francesinha (tosty z serem, wędliną i ostrym sosem — danie narodowe Porto): ok. 10–15 EUR.

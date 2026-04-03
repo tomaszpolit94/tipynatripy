@@ -9,9 +9,6 @@ tags: ["Booking", "Airbnb", "noclegi", "hotel", "apartament"]
 
 Booking.com vs Airbnb — to pytanie, które zadaje sobie każdy planujący wyjazd. Odpowiedź zależy od liczby osób, długości pobytu, miasta i Twojego stylu podróżowania. Oto analiza bez lania wody.
 
-![Nowoczesny pokój hotelowy z panoramicznym oknem — duże łóżko, czyste wnętrze, widok na miasto wieczorem](https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80&auto=format&fit=crop)
-*Hotel czy apartament? Kluczowe pytania: ile nas jedzie, na ile nocy, czy będziemy gotować*
-
 ## Booking.com — kiedy i dlaczego
 
 **Booking wygrywa gdy:**

@@ -12,9 +12,6 @@ tags: ["Dubaj", "Wizz Air", "ZEA", "Bliski Wschód", "tanie loty"]
 
 Wizz Air ma jedne z najtańszych połączeń z Warszawy do Dubaju. Trasa bezpośrednia, lot 5h 30min — i ceny startujące od 349 zł za jedną stronę. To jedna z najlepszych propozycji na egzotyczny kierunek bez wielogodzinnej przesiadki.
 
-![Dubaj — wieżowce Burj Khalifa i centrum Dubaju w wieczornym oświetleniu nad pustynnymi piaskami](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Dubaj — Burj Khalifa, Palm Jumeirah, Gold Souk, pustynia. Idealny cel na zimowe uciekanie od polskiej szarugi*
-
 ## Szczegóły oferty
 
 | | |

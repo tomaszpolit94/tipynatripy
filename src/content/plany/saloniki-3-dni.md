@@ -14,9 +14,6 @@ Saloniki są dla Greków tym, czym Kraków dla Polaków — kulturalną stolicą
 
 ## Dzień 1 — Biała Wieża i Nabrzeże
 
-![Biała Wieża w Salonikach — symbol miasta nad brzegiem Morza Egejskiego o zachodzie słońca](https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80&auto=format&fit=crop)
-*Biała Wieża (Lefkos Pirgos) — symbol Salonik, XV w., dziś muzeum historii Bizancjum. Na szczycie: panorama zatoki Termajskiej i Olimp w tle*
-
 **Rano (9:00):** Biała Wieża (ok. 4 EUR) — symbol miasta nad Morzem Egejskim. 6 kondygnacji muzeum historii Salonik i Bizancjum. Widok z tarasu na Olimp (przy dobrej pogodzie).
 
 **10:30:** Spacer promenadą nadmorską (Leoforos Nikis) — 3 km wzdłuż zatoki, pomniki, kawiarnie, joggerzy.

@@ -14,9 +14,6 @@ Oslo jest jedną z najbardziej ekologicznych stolic Europy i jednocześnie jedn�
 
 ## Dzień 1 — Centrum i Fiordy
 
-![Oslo fiord Oslofjord — panorama miasta i fiordu z nabrzeża Aker Brygge z nowoczesnymi budynkami](https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?w=800&q=80&auto=format&fit=crop)
-*Oslo nad Oslofjordem — nowoczesna Opera jak tafla lodu, stary fort Akershus, i zielone wyspy na fiordie. Miasto i natura w idealnej równowadze*
-
 **Rano (9:00):** Operahuset (Opera) — budynek opery (2008) z białym marmurem schodzącym do wody. Możesz wejść na dach za darmo — panorama fiordu i miasta. Architektura sama w sobie jest atrakcją.
 
 **10:30:** Akershus Festning — średniowieczna forteca nad fiordem. Bezpłatne wejście na dziedziniec. Muzeum Ruchu Oporu (ok. 60 NOK) — norweski ruch oporu w II WŚ.

@@ -12,9 +12,6 @@ tags: ["Dublin", "Ryanair", "Irlandia", "tanie loty"]
 
 Ryanair — irlandzka linia, irlandzka destynacja. Z Modlina do Dublina w niecałe 3 godziny, od 99 zł. Dublin to nie tylko Guinness i Temple Bar — to brama do jednych z najpiękniejszych krajobrazów Europy.
 
-![Dublin — Trinity College z zielonym dziedzińcem i historycznym budynkiem biblioteki pośród starego miasta](https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&q=80&auto=format&fit=crop)
-*Dublin — Trinity College, Temple Bar, Guinness Storehouse. I baza wypadowa do Klifów Moheru i Galway*
-
 ## Szczegóły oferty
 
 | | |

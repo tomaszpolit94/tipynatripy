@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Marrakesz uderza wszystkimi zmysłami naraz — zapach przypraw i skór na soukach, hałas Placu Dżemaa el-Fna, kolory zafarbowanych tkanin, smak mint tea z miętą. To miasto, które jest równocześnie przerażające i magnetyczne — i które zmieni Twoje pojęcie o tym, co znaczy podróżować.
 
-![Sahara w pobliżu Marrakeszu — караwana wielbłądów na tle złotych wydm piaskowych przy zachodzie słońca](https://images.unsplash.com/photo-1489493585363-d69421e0edd3?w=800&q=80&auto=format&fit=crop)
-*Maroko — od Sahary przez Atlas do Atlantyku. Marrakesz to brama do pustyni, gór i medyn UNESCO*
-
 ## 1. Plac Dżemaa el-Fna — centrum wszechświata
 
 Plac Dżemaa el-Fna (Jemaa el-Fna, "Plac Umarłych") to serce Marrakeszu i jeden z najbardziej niesamowitych placów na świecie. Przez UNESCO uznany za "Niematerialne Dziedzictwo Kulturowe Ludzkości".

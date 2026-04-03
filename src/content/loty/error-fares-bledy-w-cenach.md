@@ -8,9 +8,6 @@ tags: ["error fare", "błędy w cenach", "tanie loty", "okazje lotnicze", "mista
 
 Error fare to sytuacja, gdy linia lotnicza lub agregator cenowy popełnia błąd — cenowy, systemowy lub w przeliczeniu walut — i przez krótki czas sprzedaje loty za ułamek normalnej ceny. Nowy Jork za 200 zł zamiast 2000 zł. Tokio za 300 zł. To się zdarza. Rzadko, ale się zdarza.
 
-![Ekran komputera z wynikami wyszukiwania lotów — niskie ceny podświetlone na liście destynacji](https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80&auto=format&fit=crop)
-*Error fares pojawiają się bez ostrzeżenia i znikają w ciągu godzin. Kluczem jest szybka reakcja i śledzenie właściwych źródeł*
-
 ## Skąd się biorą błędy cenowe?
 
 **Najczęstsze przyczyny:**

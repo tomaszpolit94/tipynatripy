@@ -14,9 +14,6 @@ Walencja jest miastem, które wynalazło paellę i postanowiło ją chronić pra
 
 ## Dzień 1 — Stare Miasto i Katedra
 
-![Walencja stare miasto — gotycka Katedra Valencia z wieżą El Miguelete i placem przed nią](https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80&auto=format&fit=crop)
-*Katedra Walencji (XIV–XV w.) z wieżą El Miguelete — wspinaczka na szczyt: widok na dachy starego miasta*
-
 **Rano (9:00):** Catedral de Valencia (ok. 3 EUR) — tu przechowywany jest Święty Graal (naprawdę — jeden z pretendentów do tytułu). Wejście na wieżę El Miguelete: 360° panoramy starego miasta.
 
 **Południe:** La Lonja de la Seda (UNESCO) — gotycki dom handlowy jedwabiem z XV w., 15 minut od katedry. Bezpłatny lub 2 EUR.

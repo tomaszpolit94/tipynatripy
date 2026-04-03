@@ -12,9 +12,6 @@ tags: ["Londyn", "Wizz Air", "Wielka Brytania", "tanie loty"]
 
 Wizz Air regularnie oferuje bardzo tanie połączenia z Krakowa Balice do Londynu Luton — jednego z czterech londyńskich lotnisk. Aktualna cena od 99 zł to jedna z niższych w tym roku.
 
-![Tower Bridge w Londynie — stalowy most wiszący nad Tamizą w porannym świetle](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80&auto=format&fit=crop)
-*Londyn — Tower Bridge, Big Ben, Borough Market. Wiza nie jest wymagana dla obywateli UE (Electronic Travel Authorisation — ETA — wymagana od 2024)*
-
 ## Szczegóły oferty
 
 | | |

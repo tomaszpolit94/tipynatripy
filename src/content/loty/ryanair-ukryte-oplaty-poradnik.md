@@ -8,9 +8,6 @@ tags: ["Ryanair", "ukryte opłaty", "bagaż Ryanair", "tanie loty", "LCC"]
 
 Ryanair jest najtańszą linią lotniczą w Europie — ale tylko jeśli wiesz jak kupować. Bilet za 49 zł może kosztować 350 zł po dodaniu bagażu, siedzenia i karty. Oto pełna mapa opłat i jak je zminimalizować.
 
-![Samolot Ryanair — niebieski i żółty boeing 737 kołujący na płycie lotniska](https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80&auto=format&fit=crop)
-*Ryanair — 200 mln pasażerów rocznie. Najtańszy lot w Europie, ale model biznesowy oparty na dodatkach. Wiedz za co płacisz*
-
 ## Pełna tabela opłat Ryanair (2025)
 
 ### Bagaż

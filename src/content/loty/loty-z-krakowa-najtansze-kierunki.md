@@ -8,9 +8,6 @@ tags: ["loty z Krakowa", "Kraków Balice", "Ryanair", "Wizz Air", "tanie loty"]
 
 Kraków Balice (KRK) to jedno z najlepiej skomunikowanych lotnisk w Polsce — szczególnie dla tanich linii lotniczych. Ryanair i Wizz Air operują stąd do ponad 60 destynacji w sezonie. Oto mapa najtańszych możliwości.
 
-![Samolot startujący z Krakowa — widok na pas startowy lotniska Kraków Balice z samolotem na tle błękitnego nieba](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80&auto=format&fit=crop)
-*Kraków Balice (KRK) — 15 km od centrum, pociąg KMK 17 minut. Ryanair i Wizz Air operują do 60+ destynacji*
-
 ## Najpopularniejsze kierunki z Krakowa
 
 ### Europa Zachodnia

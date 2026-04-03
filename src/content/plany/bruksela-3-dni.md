@@ -14,9 +14,6 @@ Bruksela jest pełna sprzeczności: siedziba UE i NATO, a zarazem miasto komiks�
 
 ## Dzień 1 — Grand Place i Centrum
 
-![Grand Place w Brukseli nocą — podświetlone złote fasady wokół brukowanego placu](https://images.unsplash.com/photo-1559113202-eff3e0462a33?w=800&q=80&auto=format&fit=crop)
-*Grand Place (UNESCO) — "najpiękniejszy plac Europy" według Victora Hugo. Złote gotycko-barokowe fasady gildii z XVII w.*
-
 **Rano (9:00):** Grand Place — spacer po placu, każda fasada to siedziba cechu z XVII w. Muzeum Miejskie w Hotelu de Ville (ok. 4 EUR). Victor Hugo i wielu innych wielkichspędził tu czas.
 
 **Południe:** Manneken Pis — małe rozgubione dziecko siusiające w fontannie przy Rue de l'Étuve. Mały, ale kultowy. Szukaj przy Rue du Chêne. Lunch przy Grand Place — frites belgijskie z majonezem: ok. 4–5 EUR.

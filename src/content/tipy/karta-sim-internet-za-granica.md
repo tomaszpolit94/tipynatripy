@@ -9,9 +9,6 @@ tags: ["internet za granicą", "karta SIM", "eSIM", "roaming", "podróże"]
 
 Internet za granicą to temat, który zmienił się dramatycznie przez ostatnie 5 lat. Roaming w UE jest bezpłatny (w limitach), eSIM zrewolucjonizował dostęp poza Europą, a karty SIM turystyczne stały się tańsze i wygodniejsze. Oto co wybrać w 2025 roku.
 
-![Smartfon z wyświetlonym symbolem sieci i sygnałem roamingowym na ekranie — łączność mobilna podczas podróży za granicę](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80&auto=format&fit=crop)
-*Internet w podróży — kluczowe dla nawigacji, rezerwacji i komunikacji. Wybierz właściwe rozwiązanie zanim wylecisz*
-
 ## Roaming w UE — co Ci przysługuje bezpłatnie
 
 **Od 2017 roku roaming w UE, EOG i Szwajcarii jest bezpłatny** — płacisz jak w Polsce. Ale są limity:

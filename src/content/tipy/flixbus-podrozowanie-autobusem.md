@@ -9,9 +9,6 @@ tags: ["FlixBus", "autobus", "tanie podróże", "Europa", "BlaBlaCar"]
 
 Autobus dalekobieżny wraca do łask — szczególnie na trasach, gdzie pociąg jest drogi a lot niegodny. FlixBus połączył Europę siecią 2500 destynacji. Oto jak z tego korzystać mądrze.
 
-![Nowoczesny autobus dalekobieżny FlixBus na autostradzie — zielony coach w ruchu na drodze](https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80&auto=format&fit=crop)
-*FlixBus — sieć 2500 destynacji w Europie i Ameryce Północnej. Nowoczesne autokary z Wi-Fi, gniazdkami i klimatyzacją. Ceny od 5 EUR*
-
 ## Kiedy autobus bije konkurencję
 
 ### Autobus wygrywa z samolotem gdy:

@@ -11,9 +11,6 @@ Sztokholm to miasto niesamowicie eleganckie i ekologiczne jednocześnie. Rozpoś
 
 ## 1. Muzeum Vasa (Vasamuseet)
 
-![Muzeum Vasa w Sztokholmie — XVII-wieczny okręt wojenny wydobyty z dna morza](https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&q=80&auto=format&fit=crop)
-*Muzeum Vasa — okręt wojenny z 1628 roku wydobyty w 1961 roku. 98% oryginalnego drewna, niesamowite zachowanie*
-
 Jeden z najlepszych muzeów Europy — okręt wojenny z 1628 roku, który zatonął 20 minut po wodowaniu. Wydobyty w 1961 roku. 98% oryginalnego drewna zachowane w idealnym stanie. Kolosalny, przerażający i fascynujący jednocześnie.
 
 Bilet ok. 230 SEK (ok. 20 EUR).

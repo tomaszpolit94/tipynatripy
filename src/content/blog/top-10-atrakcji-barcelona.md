@@ -11,9 +11,6 @@ Barcelona to miasto, które robi wrażenie natychmiast — od pierwszego spojrze
 
 ## 1. Sagrada Família
 
-![Sagrada Família w Barcelonie — architekt Antoni Gaudí, budowana od 1882 roku](https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800&q=80&auto=format&fit=crop)
-*Sagrada Família — największa niekończona budowla Europy i arcydzieło Gaudíego*
-
 Bazylika projektowana przez Antoniego Gaudíego od 1882 roku, wciąż w budowie. To chyba jedyna budowla na świecie, dla której warto stać w kolejce. Fasady nativity i passion to dwa zupełnie różne światy — gotycka organiczność z jednej strony, modernistyczny dramat z drugiej.
 
 **Wskazówka:** Kup bilet online z wyprzedzeniem (20-30 EUR). Wejdź rano dla najpiękniejszego światła przez kolorowe witraże.

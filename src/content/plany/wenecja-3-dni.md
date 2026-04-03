@@ -14,9 +14,6 @@ Wenecja jest piękna i zatłoczona jednocześnie. Sekret dobrej wizyty: przyjed�
 
 ## Dzień 1 — San Marco i Canal Grande
 
-![Canal Grande w Wenecji — vaporetto płynące między pałacami renesansu](https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80&auto=format&fit=crop)
-*Canal Grande — 4 km weneckiej "autostrady" z pałacami baroku i renesansu. Vaporetto nr 1: najtańsza "wycieczka gondolą"*
-
 **Wczesny ranek (7:00):** Plac Świętego Marka przed tłumami — kawiarnie dopiero otwierają, gołębie piją z kałuż, kamienne posadzki połyskują po nocy. Zrób zdjęcia przed 9:00 — potem niemożliwe.
 
 **Rano (9:00):** Bazylika San Marco — zarezerwuj wejście online (2 EUR, pomijasz kolejkę). Złote mozaiki na sklepieniu (8500 m²) zapierają dech. Na balkon za ok. 7 EUR — widok na plac.

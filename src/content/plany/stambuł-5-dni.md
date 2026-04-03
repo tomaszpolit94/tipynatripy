@@ -14,9 +14,6 @@ Stambuł leży na dwóch kontynentach, trzech morzach i kilku tysiącach lat his
 
 ## Dzień 1 — Sultanahmet: Hagia Sophia i Błękitny Meczet
 
-![Wnętrze Hagii Sophii w Stambule — złote mozaiki i kopuła z 6. wieku](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Hagia Sophia (537 n.e.) — przez 900 lat największy kościół świata. Złote mozaiki chrześcijańskie i mihrab islamski w jednej przestrzeni*
-
 **Wczesny ranek (8:00):** Hagia Sophia — wejdź przed 9:00. Bizantyńskie mozaiki, kolosalna kopuła, galeria górna z Deesus mozaiką z XII w. Wstęp wolny (czynny meczet).
 
 **Rano:** Błękitny Meczet (Sultan Ahmet Camii) — po Hagii Sophii przejdź na plac. 20 000 niebieskich kafli, 6 minaretów. Poza godzinami modlitw dla turystów, wstęp wolny. Zakryj głowę (kobiety) i zdejmij buty.

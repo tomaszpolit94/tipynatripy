@@ -11,9 +11,6 @@ Londyn nie jest miastem, które się *zwiedza* — Londyn się *przeżywa*. Pona
 
 ## 1. Big Ben i Pałac Westminsterski
 
-![Big Ben i Pałac Westminsterski w Londynie](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80&auto=format&fit=crop)
-*Ikoniczny Big Ben — symbol Londynu widoczny z brzegów Tamizy*
-
 Pałac Westminsterski to siedziba brytyjskiego parlamentu — i jeden z najpiękniejszych gotyckich budynków na świecie. Big Ben (oficjalnie Elizabeth Tower) to zegarowa wieża przywrócona do pełnej świetności po renowacji w 2022 roku.
 
 Wstęp na zewnątrz: bezpłatny. Wycieczki wewnątrz parlamentu: od 20 GBP (rezerwacja z wyprzedzeniem). Najlepszy widok z Mostu Westminsterskiego o wschodzie słońca.

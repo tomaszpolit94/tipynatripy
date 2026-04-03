@@ -11,9 +11,6 @@ Kopenhaga regularnie trafia na listy "najszczęśliwszych miast świata". Czyste
 
 ## 1. Nyhavn — Nowy Port
 
-![Kolorowe domy przy Nyhavn w Kopenhadze — pocztówkowy widok Danii](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80&auto=format&fit=crop)
-*Nyhavn — XVII-wieczny kanał z kolorowymi kamienicami i historycznymi drewnianymi łodziami. Symbol Kopenhagi*
-
 Pocztówkowa Kopenhaga — XVII-wieczny kanał ze sfarbowanymi kamienicami w żywych barwach, restauracjami i kawiarniami. Hans Christian Andersen mieszkał w domach nr 18, 20 i 67. Najpiękniejszy punkt na zdjęcia latem przy słońcu.
 
 Wstęp wolny.

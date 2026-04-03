@@ -11,9 +11,6 @@ Praga zachwyca na każdym kroku — gotyckie wieże, barokowe kościoły, kubist
 
 ## 1. Zamek Praski (Pražský hrad)
 
-![Most Karola w Pradze o świcie](https://images.unsplash.com/photo-1541849546-216549ae216d?w=800&q=80&auto=format&fit=crop)
-*Praga z Mostu Karola — jeden z najpiękniejszych widoków w Europie*
-
 Największy zamek świata (wg powierzchni) góruje nad miastem z lewego brzegu Wełtawy. Kompleks obejmuje Katedrę Świętego Wita (wejście na wieżę ok. 150 CZK), Stary Pałac Królewski, Bazylikę Świętego Jerzego i złotą uliczkę (Zlatá ulička) z małymi domkami rzemieślników.
 
 Bilet kompleksowy: ok. 350 CZK (ok. 65 zł). Sam widok z dziedzińca i spacer po ogrodach — bezpłatny.

@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Sewilla to serce Andaluzji i jedno z najbardziej zmysłowych miast Europy. Tu narodziło się flamenco, tu stoi jeden z największych gotyckich kościołów świata, tu kwitną pomarańczowe drzewa i pachnie jaśmin. Jeśli masz wybrać jedno miasto w Hiszpanii — wybierz Sewillę.
 
-![Sewilla — panorama miasta z wieżą Giralda i dachem katedry dominującą nad historycznym centrum](https://images.unsplash.com/photo-1559654248-b678b0e136b6?w=800&q=80&auto=format&fit=crop)
-*Sewilla — miasto flamenco, tapas i mauretańskich pałaców. Najpiękniejsze miasto Andaluzji, 700 000 mieszkańców, 3 obiekty UNESCO w centrum*
-
 ## 1. Real Alcázar — pałac tysiąca i jednej nocy
 
 **Alcázar to obowiązkowy punkt numer jeden.** Mauretański pałac królewski budowany przez kolejne wieki (od X do XIX w.) jest jednym z najlepiej zachowanych przykładów architektury mudéjar na świecie. HBO kręciło tu sceny z Dorne w Grze o Tron — i natychmiast widać dlaczego.

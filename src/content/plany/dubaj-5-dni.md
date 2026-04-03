@@ -14,9 +14,6 @@ Dubaj jest miastem superlative — największy, najwyższy, najnowszy, najdrożs
 
 ## Dzień 1 — Downtown i Burj Khalifa
 
-![Burj Khalifa w Dubaju — najwyższy budynek świata (828 m) z kolorowymi fontannami u podstawy](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80&auto=format&fit=crop)
-*Burj Khalifa (828 m) — najwyższy budynek świata od 2010 roku. Fontanny u podstawy tańczą co 30 min od 18:00*
-
 **Rano (9:00):** Dubai Mall — ogromne centrum handlowe z akwarium (ok. 130 AED), lodowiskiem i... fontanną w środku. Poranek to jedyny czas bez tłumów.
 
 **Południe:** Burj Khalifa — At The Top (piętro 124/125, ok. 149 AED) lub Sky (piętro 148, ok. 379 AED). Zarezerwuj online z tygodniowym wyprzedzeniem — tańiej i bez kolejek.

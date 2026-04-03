@@ -11,9 +11,6 @@ Lizbona leży na siedmiu wzgórzach nad Tagiem i pachnie solonym wiatrem atlanty
 
 ## 1. Alfama — dusza Lizbony
 
-![Lizbona — kolorowe dachy i tramwaj na tle rzeki Tejo](https://images.unsplash.com/photo-1558642084-fd07fae5282e?w=800&q=80&auto=format&fit=crop)
-*Lizbona widziana ze wzgórza — miasto labiryntu i niebieskich kafli*
-
 Alfama to najstarsza dzielnica Lizbony — mauretański labirynt wąskich uliczek, suszące się pranie, koty na murach i dźwięki fado wydobywające się z restauracji. Tu Lizbona wygląda tak jak tysiąc lat temu.
 
 Zaczynaj od Miradouro das Portas do Sol o wschodzie słońca — widok jest niesamowity. Wtorki i soboty to dzień targu na Feira da Ladra (pchli targ pod zamkiem).

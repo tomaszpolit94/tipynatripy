@@ -11,9 +11,6 @@ Dubrownik przyciąga od wieków. Wenecja Wschodu, perła Adriatyku, Miasto-Pańs
 
 ## 1. Mury obronne (Gradske Zidine)
 
-![Mury obronne Dubrownika i pomarańczowe dachy Starego Miasta](https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&q=80&auto=format&fit=crop)
-*Mury Dubrownika — 2 km obejścia ze spektakularnym widokiem na morze i miasto*
-
 2 km murów obronnych z XIV w. — spacer dookoła całego Starego Miasta z widokiem na Adriatyk z jednej strony i pomarańczowe dachy z drugiej. To jedno z najpiękniejszych doświadczeń w całej Chorwacji.
 
 Bilet: ok. 35 EUR (droższy niż kiedyś, ale wart). Najlepiej wyjść rano (przed 9:00) lub późnym popołudniem — światło jest piękniejsze i tłumów mniej.

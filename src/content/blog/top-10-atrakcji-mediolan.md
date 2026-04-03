@@ -11,9 +11,6 @@ Mediolan ma problem z wizerunkiem. Większość turystów traktuje go jako przys
 
 ## 1. Katedra Duomo di Milano
 
-![Katedra Duomo w Mediolanie — gotycki cud architektury](https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800&q=80&auto=format&fit=crop)
-*Duomo — 600 lat budowy, 135 iglice, najpiękniejsza gotycka katedra Europy*
-
 Budowana przez 600 lat (1386–1965), Duomo di Milano to jedna z największych katedr gotyckich na świecie. 135 iglice, 3 400 posągów i marmurowa fasada, której białość zapiera dech.
 
 Wejście do środka: ok. 5 EUR. Na taras (dachy katedry) — ok. 15 EUR z windą, 7 EUR pieszo — jeden z najpiękniejszych widoków we Włoszech. Kup bilet online — kolejki bywają ogromne.

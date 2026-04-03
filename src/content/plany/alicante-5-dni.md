@@ -14,9 +14,6 @@ Alicante to najsłoneczniejsze miasto Hiszpanii — ponad 300 dni słońca w rok
 
 ## Dzień 1 — Zamek Santa Bárbara i Casco Antiguo
 
-![Zamek Santa Bárbara w Alicante na skale ponad miastem i plażą Postiguet](https://images.unsplash.com/photo-1566408669374-6b3b3943f07a?w=800&q=80&auto=format&fit=crop)
-*Castillo de Santa Bárbara — zamek mauretański ponad Alicante. Winda od strony plaży (ok. 3 EUR) lub pieszo. Panorama Costa Blanca*
-
 **Rano (9:00):** Zamek Santa Bárbara — winda ze strony plaży lub pieszo z centrum (30 min). Panorama Alicante, plaży Postiguet i Sierra Nevada w dali. Bezpłatny wstęp do ruin.
 
 **Południe:** Casco Antiguo (Stare Miasto) — Katedra San Nicolás, Ratusz, mozaikowe aleje La Rambla. Barrio de Santa Cruz — białe domy z donicami kwiatów, wąskie uliczki.

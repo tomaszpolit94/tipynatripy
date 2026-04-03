@@ -14,9 +14,6 @@ Neapol jest głośny, chaotyczny, genialny i smaczny. Stolica południa Włoch d
 
 ## Dzień 1 — Stare Miasto i Pierwsza Pizza
 
-![Neapol stare miasto — widok na Zatokę Neapolitańską z uliczkami centrum historycznego](https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80&auto=format&fit=crop)
-*Neapol z Castel dell'Ovo — centrum historyczne wpisane na listę UNESCO, za nim Wezuwiusz*
-
 **Rano (9:00):** Spacer przez Spaccanapoli — prosta ulica przecinająca stare miasto na pół. Kościoły barokowe, sklepiki z presepe (szopki), lokalna atmosfera.
 
 **10:30:** Cappella Sansevero — mała kaplica z niesamowitą rzeźbą "Chrystus pod całunem" (ok. 8 EUR). Marmur wyglądający jak mokra tkanina — XVIII-wieczne arcydzieło. Wejście przez rezerwację.

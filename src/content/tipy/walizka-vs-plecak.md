@@ -9,9 +9,6 @@ tags: ["pakowanie", "walizka", "plecak", "sprzęt podróżny"]
 
 To jedna z pierwszych decyzji przy planowaniu wyjazdu. I nie ma uniwersalnej odpowiedzi — zależy od rodzaju podróży, długości, stylu i tego, jak linia lotnicza liczy bagaż.
 
-![Plecak i walizka obok siebie na tle mapy świata — symboliczne zestawienie dwóch stylów podróżowania](https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=800&q=80&auto=format&fit=crop)
-*Walizka czy plecak? Pytanie, które zadaje sobie każdy przed wyjazdem*
-
 ## Kiedy walizka jest lepsza
 
 **Wybierz walizkę gdy:**

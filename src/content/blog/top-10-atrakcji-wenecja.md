@@ -11,9 +11,6 @@ Wenecja jest jak żaden inny punkt na Ziemi. Miasto bez samochodów, bez roweró
 
 ## 1. Plac Świętego Marka (Piazza San Marco)
 
-![Plac Świętego Marka w Wenecji — Bazylika, Pałac Dożów, Campanila](https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80&auto=format&fit=crop)
-*Piazza San Marco — "salon Europy" według Napoleona. Bazylika, Campanile, Zegar i Pałac Dożów w jednym miejscu*
-
 "Salon Europy" — jak nazwał go Napoleon. Bazylika San Marco z złotymi mozaikami, Campanile (dzwonnica, ok. 9 EUR, winda), Pałac Dożów po prawej.
 
 Kawy na placu unikaj — 12–15 EUR za espresso. Oryginalne muzyczne kawiarnie (Florian, Quadri) mają surcharge za muzykę.

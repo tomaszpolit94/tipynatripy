@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Bali to coś więcej niż wyspa — to stan umysłu. "Wyspa Bogów" przyciąga artystów, surferów, poszukiwaczy duchowych i podróżnych z całego świata od dekad. I wciąż zaskakuje — ryżowymi tarasami Tegallalang, balijskim hinduizmem z kwiatowymi ofiarami (canang sari) o poranku, szmaragdowym dżunglą i plażami z czarnym piaskiem wulkanicznym.
 
-![Ryżowe tarasy Tegallalang na Bali — zielone tarasy pól ryżowych na stokach wulkanu z kokosowymi palmami i balijską wegetacją tropikalną](https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&q=80&auto=format&fit=crop)
-*Ryżowe tarasy Tegallalang — UNESCO, jedno z ikonicznych miejsc Bali. 20 min od Ubudu*
-
 ## Kiedy jechać na Bali
 
 **Suchy sezon (kwiecień–październik)** — najlepszy czas. Maj–czerwiec i wrzesień–październik: mniej turystów niż letnie szczyty.

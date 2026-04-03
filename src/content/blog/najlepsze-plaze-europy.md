@@ -9,9 +9,6 @@ author: "Redakcja Tipynatripy"
 
 Europa ma plaże, które bez kompleksów rywalizują z Karaibami i Maldiwami. Turkusowa woda Zakynthos, różowy piasek Sardynii, klify Algarve i fiordowe plaże Norwegii — to wszystko w zasięgu kilku godzin lotu z Polski. Oto najpiękniejsze europejskie plaże według naszej redakcji.
 
-![Plaża z białym piaskiem i turkusową wodą otoczona palmami i skalistymi klifami — typowy widok śródziemnomorskiej plaży latem](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80&auto=format&fit=crop)
-*Europejskie plaże — od turqusowego Morza Śródziemnego po dramatyczne wybrzeże atlantyckie*
-
 ## 1. Navagio (Shipwreck Beach) — Zakynthos, Grecja
 
 Jedna z najbardziej fotografowanych plaż na świecie. Zamknięta zatoka otoczona białymi klifami i rdzewiejący wrak greckiego przemytnika Panagiotis z 1980 roku na tle śnieżnobiałego piasku i intensywnie niebieskiej wody.

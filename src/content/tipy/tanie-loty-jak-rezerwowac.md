@@ -9,9 +9,6 @@ tags: ["tanie loty", "bilety lotnicze", "Ryanair", "Wizz Air", "oszczędzanie"]
 
 Cena biletu lotniczego zależy od setek czynników — ale jest kilka żelaznych zasad, które pozwalają płacić mniej. Nie ma jednej magicznej metody, ale jest zestaw nawyków, które robią różnicę.
 
-![Samolot startujący o świcie — widok na silniki i skrzydła na tle pomarańczowego nieba](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80&auto=format&fit=crop)
-*Cena biletu to tylko część kosztów — samolot startuje, a z nim lista ukrytych opłat. Wiedz co płacisz zanim klikniesz "kup"*
-
 ## Kiedy kupować bilety?
 
 **Zasada 6-8 tygodni** — dla większości europejskich kierunków optimum zakupu to 6–8 tygodni przed wylotem. Wcześniej ceny bywają wyższe (airline spekuluje). Później też rosną (wyprzedaż końcowych miejsc).

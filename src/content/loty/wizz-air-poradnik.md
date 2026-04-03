@@ -8,9 +8,6 @@ tags: ["Wizz Air", "bagaż Wizz Air", "Wizz Discount Club", "tanie loty", "LCC"]
 
 Wizz Air to węgierska linia niskokosztowa z jedną z największych flot w Europie Środkowej. Dla Polaków to często alternatywa dla Ryanair — z kilkoma ważnymi różnicami. Oto co musisz wiedzieć.
 
-![Samolot Wizz Air w powietrzu — różowo-fioletowy airbus z logo Wizz Air na tle nieba](https://images.unsplash.com/photo-1512053459797-38c3a066cabd?w=800&q=80&auto=format&fit=crop)
-*Wizz Air — 60 mln pasażerów rocznie, baza w Polsce (Warszawa, Kraków, Gdańsk, Katowice). Rozbudowana sieć do Europy, Bliskiego Wschodu i Afryki*
-
 ## Bagaż Wizz Air — aktualne limity (2025)
 
 ### Co jest bezpłatne?

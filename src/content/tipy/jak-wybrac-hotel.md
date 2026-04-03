@@ -9,9 +9,6 @@ tags: ["hotel", "noclegi", "Booking", "jak wybrać", "recenzje hoteli"]
 
 Rezerwacja hotelu to sztuka czytania między wierszami. Zdjęcia są szerokoformatowe, oceny może mieć 8,5 ale za lokalizację 6,5. Oto jak wybrać mądrze i nie trafić na rozczarowanie.
 
-![Recepcja hotelowa — elegancka lada z marmuru, rośliny i przyjazna obsługa w tle przy wejściu](https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800&q=80&auto=format&fit=crop)
-*Hotel na zdjęciach vs rzeczywistość — wiedz jak czytać oferty, żeby nie trafić na przykre niespodzianki*
-
 ## Oceny — jak je czytać
 
 ### Ocena ogólna vs kategorie

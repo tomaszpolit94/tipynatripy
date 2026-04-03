@@ -14,9 +14,6 @@ Praga to jedno z najbardziej fotogenicznych miast Europy — i jedno z najtańsz
 
 ## Dzień 1 — Hradczany i Malá Strana
 
-![Zamek Praski i katedra świętego Wita o świcie nad Pragą](https://images.unsplash.com/photo-1541849546-216549ae216d?w=800&q=80&auto=format&fit=crop)
-*Hradczany — największy zamek na świecie według Księgi Rekordów Guinnessa. Najlepszy widok z ogrodu królewskiego przed otwarciem*
-
 **Rano (8:00):** Zamek Praski — przyjdź przed otwarciem kas, ogrody są wolne od świtu. Katedra Świętego Wita (wnętrze wolne, wieża płatna ok. 150 CZK), Pałac Królewski, Złota Uliczka (domy krasnoludków).
 
 Bilet do obiektów zamkowych: ok. 250–350 CZK (ok. 50–70 zł).

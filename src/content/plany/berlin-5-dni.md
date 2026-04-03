@@ -14,9 +14,6 @@ Berlin jest miastem, które przetworzyło traumę XX wieku w energię twórczą.
 
 ## Dzień 1 — Centrum Historyczne
 
-![Brama Brandenburska w Berlinie nocą — symbol podziału i zjednoczenia Niemiec](https://images.unsplash.com/photo-1560969184-10fe8719e047?w=800&q=80&auto=format&fit=crop)
-*Brama Brandenburska (1791) — przez 28 lat w strefie niczyjej. Dziś symbol zjednoczenia. Nocą podświetlona*
-
 **Rano (9:00):** Brama Brandenburska → Pomnik Holokaustu (2711 steli, wstęp wolny). Dokumentacja w piwnicy — poruszająca i ważna.
 
 **Południe:** Topografia Terroru (wolny) — na miejscu dawnego HQ Gestapo i SS. Jeden z najważniejszych i najlepszych dokumentacyjnych muzeów w Europie.

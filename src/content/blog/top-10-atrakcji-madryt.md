@@ -11,9 +11,6 @@ Madryt to jedno z tych miast, które wciągają bez ostrzeżenia. Kolacja o 22:0
 
 ## 1. Muzeum Prado
 
-![Muzeum Prado w Madrycie — jedno z największych muzeów sztuki na świecie](https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&q=80&auto=format&fit=crop)
-*Prado — dom Velázqueza, Goi i Rubensa. Jeden z 5 największych zbiorów sztuki na świecie*
-
 Jedno z najważniejszych muzeów sztuki na świecie. Velázquez, Goya, El Greco, Rubens — ponad 7 000 dzieł. Tylko na ekspozycji: ok. 1 500.
 
 Bilet ok. 15 EUR. Bezpłatny w godzinach 18:00–20:00 (wt–sob) i 17:00–19:00 (niedz).

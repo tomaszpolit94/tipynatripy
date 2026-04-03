@@ -14,9 +14,6 @@ Madryt żyje innym rytmem — kolacja o 22:00, impreza do 5:00, sjesta po lunchu
 
 ## Dzień 1 — Muzea i Park Retiro
 
-![Muzeum Prado w Madrycie — Velázquez, Goya i Rubens pod jednym dachem](https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&q=80&auto=format&fit=crop)
-*Muzeum Prado — jeden z 5 największych zbiorów sztuki na świecie. Wejście wieczorne (18–20:00) bezpłatne!*
-
 **Rano (10:00):** Muzeum Prado (ok. 15 EUR) — Velázquez (Las Meninas!), Goya (Trzeci Maja, Czarne Obrazy), El Greco, Rubens. Minimum 3 godziny. Lub przyjdź o 18:00 — wstęp wolny!
 
 **Południe:** Park Retiro — łódki na jeziorze (ok. 6 EUR/h), Palacio de Cristal (szklany pałac z wystawami — bezpłatny), fontanna Alfonsa XII. Lunch przy parku.

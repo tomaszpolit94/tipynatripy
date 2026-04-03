@@ -12,9 +12,6 @@ tags: ["Reykjavik", "Islandia", "Wizz Air", "zorza polarna", "tanie loty"]
 
 Wizz Air jako jedna z niewielu linii niskokosztowych lata bezpośrednio z Warszawy do Reykjaviku. Od 499 zł to niska cena za tak egzotyczny i odległy kierunek. Islandia jest droga na miejscu — ale przynajmniej lot jest dostępny cenowo.
 
-![Zorza polarna nad Islandią — zielono-fioletowe smugi aurora borealis nad śnieżnym krajobrazem z jeziorkiem](https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800&q=80&auto=format&fit=crop)
-*Islandia — zorza polarna, gejzery, lodowce, Hot Spring. Jeden z najbardziej niesamowitych krajobrazów Europy*
-
 ## Szczegóły oferty
 
 | | |

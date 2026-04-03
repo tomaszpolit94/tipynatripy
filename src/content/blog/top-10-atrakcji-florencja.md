@@ -11,9 +11,6 @@ Florencja jest niewielka — można ją przejść pieszo. Ale każde 100 metrów
 
 ## 1. Galeria Uffizi
 
-![Galeria Uffizi we Florencji — jeden z największych zbiorów renesansowej sztuki](https://images.unsplash.com/photo-1541849546-216549ae216d?w=800&q=80&auto=format&fit=crop)
-*Uffizi — Wenus Botticellego, Narodziny Wiosny, Tycjan, Leonardo da Vinci. Jeden z 5 ważniejszych muzeów świata*
-
 Jeden z najważniejszych zbiorów sztuki renesansowej. Wenus Botticellego, Narodziny Wiosny, Zwiastowanie Leonarda da Vinci, Tycjan, Caravaggio.
 
 Bilet ok. 20 EUR (+ 4 EUR rezerwacja — OBOWIĄZKOWA). Kolejki bez rezerwacji: 3–4 godziny. Nie ryzykuj.

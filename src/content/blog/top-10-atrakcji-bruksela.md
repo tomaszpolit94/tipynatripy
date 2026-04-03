@@ -11,9 +11,6 @@ Bruksela jest często traktowana jako stolica europejskiej biurokracji — i nie
 
 ## 1. Grand Place — jeden z najpiękniejszych placów świata
 
-![Grand Place w Brukseli - złote gotyckie kamienice](https://images.unsplash.com/photo-1559113202-eff3e0462a33?w=800&q=80&auto=format&fit=crop)
-*Grand Place — UNESCO i jeden z najbardziej zachwycających placów na świecie*
-
 UNESCO Światowe Dziedzictwo. Otoczony złotymi gotycko-barokowymi kamienicami cechowymi z XVII w., Ratuszem (Hotel de Ville) i Domem Króla (Maison du Roi). Victor Hugo nazwał go "najpiękniejszym placem w Europie".
 
 Wstęp wolny. Co 2 lata w sierpniu plac pokrywany jest dywanami z kwiatów (Carpet of Flowers). Wieczorami podświetlony budynek Ratusza to jedno z najpiękniejszych widoków Belgii.

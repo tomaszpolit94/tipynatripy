@@ -9,9 +9,6 @@ tags: ["wynajem samochodu", "car rental", "ubezpieczenie CDW", "podróże"]
 
 Wynajem samochodu to często najwygodniejszy sposób na zwiedzanie — szczególnie w Chorwacji, Portugalii, Grecji czy Szkocji. Ale branża wypożyczalni jest pełna pułapek. Oto co musisz wiedzieć.
 
-![Samochód na tle malowniczej górskiej drogi w słońcu — widok przez przednią szybę na serpentyny](https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80&auto=format&fit=crop)
-*Wynajem auta za granicą — wolność bez rozkładu jazdy. Ale przeczytaj umowę zanim podpiszesz*
-
 ## Gdzie szukać najtańszych ofert?
 
 **Rentalcars.com i Discovercars.com** — agregatory, które pokazują oferty wielu firm naraz. Zawsze sprawdzaj obie.

@@ -14,9 +14,6 @@ Budapeszt to jedno z najbardziej niedocenianych miast Europy. Dwa miasta (Buda i
 
 ## Dzień 1 — Buda: Zamek i Łaźnie
 
-![Zamek Budaiski i Most Łańcuchowy odbite w Dunaju wieczorem](https://images.unsplash.com/photo-1565099824688-0b46a0b72952?w=800&q=80&auto=format&fit=crop)
-*Zamek Budaiski na wzgórzu nad Dunajem — najpiękniejszy widok Budapesztu po zachodzie słońca*
-
 **Rano (9:00):** Wzgórze Zamkowe funicularem (ok. 1 400 HUF) lub pieszo. Zamek Budaiski — Galeria Narodowa (ok. 3 200 HUF), dziedziniec z widokiem. Bastion Rybacki (Halászbástya) — baśniowa wieża z panoramą Pesztu i Parlamentu (wejście zewnętrzne wolne, na tarasy ok. 1 000 HUF).
 
 **Południe:** Lunch na wzgórzu lub zejście do dzielnicy I — Budavár. Lángos (smażony placek z serem) przy straganie: ok. 800 HUF.

@@ -14,9 +14,6 @@ Sztokholm jest rozpostarte na 14 wyspach łączonych mostami — każda dzielnic
 
 ## Dzień 1 — Gamla Stan i Pałac Królewski
 
-![Gamla Stan w Sztokholmie — kolorowe kamienice starego miasta wzdłuż kanału, odbijające się w wodzie](https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800&q=80&auto=format&fit=crop)
-*Gamla Stan — stare miasto Sztokholmu na wyspie między dwoma ramionami Bałtyku. Uliczki z XIII w., kolorowe kamienice, bruk i żółte latarnie. Wieczorem magiczne*
-
 **Rano (9:00):** Gamla Stan — stare miasto na wyspie Stadsholmen. Stortorget (główny plac), Köpmangatan (najwęższa uliczka Sztokholmu — 90 cm!), kościół Storkyrkan.
 
 **10:00:** Kungliga Slottet — Pałac Królewski (ok. 160 SEK / 60 zł). Ceremonia zmiany warty o 12:15 (latem codziennie). Komnaty reprezentacyjne, Skarbiec z koronami.

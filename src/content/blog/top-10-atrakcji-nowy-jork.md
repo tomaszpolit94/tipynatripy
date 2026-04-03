@@ -11,9 +11,6 @@ Nowy Jork to nie miasto — to idea. To miejsce, które zna każdy, kto nigdy tu
 
 ## 1. Empire State Building
 
-![Panorama Manhattanu z Empire State Building](https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&q=80&auto=format&fit=crop)
-*Panorama Nowego Jorku — jeden z najsłynniejszych widoków na świecie*
-
 102 piętra, 443 metry, otwarty w 1931 roku — i nadal jeden z najpiękniejszych widoków na świecie. Main Deck (86. piętro) — ok. 44 USD. Top Deck (102. piętro) — ok. 77 USD. Kup bilet online.
 
 Wieczorami z podświetlonym Manhattanem — magia gwarantowana. Wchodzi z mody od czasu otwarcia One World Trade Center (inna perspektywa, ale i inny charakter).

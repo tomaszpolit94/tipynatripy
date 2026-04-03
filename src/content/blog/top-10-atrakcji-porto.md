@@ -11,9 +11,6 @@ Porto jest antytezą postcard-perfect. Tu nie ma Wieży Eiffla ani Koloseum — 
 
 ## 1. Ribeira — historyczne nabrzeże Porto
 
-![Kolorowa Ribeira w Porto nad rzeką Douro](https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80&auto=format&fit=crop)
-*Ribeira — UNESCO i serce historycznego Porto*
-
 UNESCO Światowe Dziedzictwo. Kolorowe kamienice bezpośrednio nad rzeką Douro — tu żyje dusza Porto. Kawiarnie, restauracje ze świeżymi owocami morza, łodzie barcos rabelos z beczkami wina po drugiej stronie rzeki.
 
 Wstęp: wolny. Najpiękniejsze wieczorami z oświetlonymi fasadami odbijającymi się w Douro.

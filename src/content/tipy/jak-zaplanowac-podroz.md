@@ -9,9 +9,6 @@ tags: ["planowanie podróży", "checklist", "jak zaplanować wyjazd", "oś czasu
 
 Dobra podróż zaczyna się od dobrego planowania — ale nie od nadmiernego planowania. Zbyt szczegółowy plan zabija spontaniczność, zbyt luźny prowadzi do chaosu i dopłat. Oto optymalny balans — co i kiedy zaplanować, a co zostawić losowi.
 
-![Mapa świata rozłożona na stole z kompasem, notatnikiem i kawą — planowanie trasy podróży dookoła świata](https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=80&auto=format&fit=crop)
-*Planowanie podróży — 80% sukcesu leży w przygotowaniu. 20% to improwizacja i szczęście*
-
 ## Oś czasu planowania — kiedy co robić
 
 ### 3–6 miesięcy przed wyjazdem

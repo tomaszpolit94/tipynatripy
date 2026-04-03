@@ -82,7 +82,16 @@ const updatedDate = post.data.updatedDate?.toLocaleDateString('pl-PL', {
         {post.data.title}
       </h1>
       <div class="flex flex-wrap items-center gap-3 text-sm text-gray-400">
-        <span>{post.data.author}</span>
+        <span class="font-medium text-gray-600">{post.data.author}</span>
+        <span aria-hidden="true">·</span>
+        <time datetime={post.data.pubDate.toISOString()} class="text-gray-400">
+          {formattedDate}
+        </time>
+        {updatedDate && (
+          <span class="text-xs bg-amber-50 text-amber-700 px-2 py-0.5 rounded-full border border-amber-200">
+            Zaktualizowano: {updatedDate}
+          </span>
+        )}
       </div>
       {
         post.data.heroImage && (
@@ -101,6 +110,26 @@ const updatedDate = post.data.updatedDate?.toLocaleDateString('pl-PL', {
     <!-- Content -->
     <div class="prose prose-lg prose-sky max-w-none prose-headings:scroll-mt-20 prose-img:rounded-xl prose-img:shadow-md prose-img:mx-auto prose-a:text-sky-600 prose-a:no-underline hover:prose-a:underline">
       <Content />
+    </div>
+
+    <!-- Author bio -->
+    <div class="mt-12 pt-8 border-t border-gray-100">
+      <div class="flex items-start gap-4 bg-gray-50 rounded-2xl p-6">
+        <div class="flex-shrink-0 w-14 h-14 rounded-full bg-sky-100 flex items-center justify-center text-sky-600 text-2xl font-bold select-none">
+          T
+        </div>
+        <div>
+          <p class="font-semibold text-gray-900 text-sm mb-1">{post.data.author}</p>
+          <p class="text-gray-500 text-sm leading-relaxed">
+            Tipynatripy to serwis podróżniczy dla Polaków, którzy chcą zwiedzać świat bez przepłacania.
+            Piszemy o tanich lotach, praktycznych tipach, planach wycieczek i okazjach lotniczych.
+            Każdy artykuł oparty jest na sprawdzonych informacjach i aktualnych cenach.
+          </p>
+          <a href="/o-nas/" class="text-sky-600 hover:text-sky-700 text-sm font-medium mt-2 inline-block transition-colors">
+            Więcej o redakcji →
+          </a>
+        </div>
+      </div>
     </div>
 
     <!-- Related posts -->

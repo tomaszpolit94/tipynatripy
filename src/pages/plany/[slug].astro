@@ -63,6 +63,11 @@ const difficultyColors: Record<string, string> = {
       <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight mb-4">
         {plan.data.title}
       </h1>
+      <div class="flex flex-wrap items-center gap-3 text-sm text-gray-400 mb-4">
+        <span class="font-medium text-gray-600">Redakcja Tipynatripy</span>
+        <span aria-hidden="true">·</span>
+        <time datetime={plan.data.pubDate.toISOString()}>{plan.data.pubDate.toLocaleDateString('pl-PL', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+      </div>
 
       <!-- Plan summary -->
       <div
